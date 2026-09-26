@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 
-/*  Every New Yorker cover since 1925 — infinite, draggable, full-bleed grid.
+/*  Every Businessweek cover, 1931-1961 — infinite, draggable, full-bleed grid.
  *
  *  Architecture note
  *  -----------------
@@ -559,7 +559,7 @@ function openPane(idx) {
   const token = ++paneToken;
 
   // text swaps immediately; only the image is asynchronous
-  paneImg.alt = `The New Yorker cover, ${c.t}`;
+  paneImg.alt = `The Businessweek cover, ${c.t}`;
   paneImg.removeAttribute('src');          // drop the stale cover at once
   paneFig.classList.add('is-loading');
   paneCap.textContent = m.artist ? `\u2014 ${m.artist}` : '';

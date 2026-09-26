@@ -90,7 +90,7 @@ body.dragging { cursor: grabbing; }
   letter-spacing: .06em;
   text-transform: uppercase;
 }
-/* forced wrap: "The New Yorker" on line one, "Cover Archive" on line two,
+/* forced wrap: "Businessweek" on line one, "Cover Archive" on line two,
    with identical type treatment and size to the first line */
 .hud h1 span {
   display: block;
