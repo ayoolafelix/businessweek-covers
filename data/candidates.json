@@ -1,0 +1,6474 @@
+[
+{
+"id": "sim_business-week_1931-01-07",
+"date": "1931-01-07"
+},
+{
+"id": "sim_business-week_1931-01-14",
+"date": "1931-01-14"
+},
+{
+"id": "sim_business-week_1931-01-21",
+"date": "1931-01-21"
+},
+{
+"id": "sim_business-week_1931-01-28",
+"date": "1931-01-28"
+},
+{
+"id": "sim_business-week_1931-02-04",
+"date": "1931-02-04"
+},
+{
+"id": "sim_business-week_1931-02-11",
+"date": "1931-02-11"
+},
+{
+"id": "sim_business-week_1931-02-18",
+"date": "1931-02-18"
+},
+{
+"id": "sim_business-week_1931-02-25",
+"date": "1931-02-25"
+},
+{
+"id": "sim_business-week_1931-03-04",
+"date": "1931-03-04"
+},
+{
+"id": "sim_business-week_1931-03-11",
+"date": "1931-03-11"
+},
+{
+"id": "sim_business-week_1931-03-18",
+"date": "1931-03-18"
+},
+{
+"id": "sim_business-week_1931-03-25",
+"date": "1931-03-25"
+},
+{
+"id": "sim_business-week_1931-04-01",
+"date": "1931-04-01"
+},
+{
+"id": "sim_business-week_1931-04-08",
+"date": "1931-04-08"
+},
+{
+"id": "sim_business-week_1931-04-15",
+"date": "1931-04-15"
+},
+{
+"id": "sim_business-week_1931-04-22",
+"date": "1931-04-22"
+},
+{
+"id": "sim_business-week_1931-04-29",
+"date": "1931-04-29"
+},
+{
+"id": "sim_business-week_1931-05-06",
+"date": "1931-05-06"
+},
+{
+"id": "sim_business-week_1931-05-13",
+"date": "1931-05-13"
+},
+{
+"id": "sim_business-week_1931-05-20",
+"date": "1931-05-20"
+},
+{
+"id": "sim_business-week_1931-05-27",
+"date": "1931-05-27"
+},
+{
+"id": "sim_business-week_1931-06-03",
+"date": "1931-06-03"
+},
+{
+"id": "sim_business-week_1931-06-10",
+"date": "1931-06-10"
+},
+{
+"id": "sim_business-week_1931-06-17",
+"date": "1931-06-17"
+},
+{
+"id": "sim_business-week_1931-06-24",
+"date": "1931-06-24"
+},
+{
+"id": "sim_business-week_1931-07-01",
+"date": "1931-07-01"
+},
+{
+"id": "sim_business-week_1931-07-08",
+"date": "1931-07-08"
+},
+{
+"id": "sim_business-week_1931-07-15",
+"date": "1931-07-15"
+},
+{
+"id": "sim_business-week_1931-07-22",
+"date": "1931-07-22"
+},
+{
+"id": "sim_business-week_1931-07-29",
+"date": "1931-07-29"
+},
+{
+"id": "sim_business-week_1931-08-05",
+"date": "1931-08-05"
+},
+{
+"id": "sim_business-week_1931-08-12",
+"date": "1931-08-12"
+},
+{
+"id": "sim_business-week_1931-08-19",
+"date": "1931-08-19"
+},
+{
+"id": "sim_business-week_1931-08-26",
+"date": "1931-08-26"
+},
+{
+"id": "sim_business-week_1931-09-02",
+"date": "1931-09-02"
+},
+{
+"id": "sim_business-week_1931-09-09",
+"date": "1931-09-09"
+},
+{
+"id": "sim_business-week_1931-09-16",
+"date": "1931-09-16"
+},
+{
+"id": "sim_business-week_1931-09-23",
+"date": "1931-09-23"
+},
+{
+"id": "sim_business-week_1931-09-30",
+"date": "1931-09-30"
+},
+{
+"id": "sim_business-week_1931-10-07",
+"date": "1931-10-07"
+},
+{
+"id": "sim_business-week_1931-10-14",
+"date": "1931-10-14"
+},
+{
+"id": "sim_business-week_1931-10-21",
+"date": "1931-10-21"
+},
+{
+"id": "sim_business-week_1931-10-28",
+"date": "1931-10-28"
+},
+{
+"id": "sim_business-week_1931-11-04",
+"date": "1931-11-04"
+},
+{
+"id": "sim_business-week_1931-11-11",
+"date": "1931-11-11"
+},
+{
+"id": "sim_business-week_1931-11-18",
+"date": "1931-11-18"
+},
+{
+"id": "sim_business-week_1931-11-25",
+"date": "1931-11-25"
+},
+{
+"id": "sim_business-week_1931-12-02",
+"date": "1931-12-02"
+},
+{
+"id": "sim_business-week_1931-12-09",
+"date": "1931-12-09"
+},
+{
+"id": "sim_business-week_1931-12-16",
+"date": "1931-12-16"
+},
+{
+"id": "sim_business-week_1931-12-23",
+"date": "1931-12-23"
+},
+{
+"id": "sim_business-week_1931-12-30",
+"date": "1931-12-30"
+},
+{
+"id": "sim_business-week_1932-01-06",
+"date": "1932-01-06"
+},
+{
+"id": "sim_business-week_1932-01-13",
+"date": "1932-01-13"
+},
+{
+"id": "sim_business-week_1932-01-20",
+"date": "1932-01-20"
+},
+{
+"id": "sim_business-week_1932-01-27",
+"date": "1932-01-27"
+},
+{
+"id": "sim_business-week_1932-02-03",
+"date": "1932-02-03"
+},
+{
+"id": "sim_business-week_1932-02-10",
+"date": "1932-02-10"
+},
+{
+"id": "sim_business-week_1932-02-17",
+"date": "1932-02-17"
+},
+{
+"id": "sim_business-week_1932-02-24",
+"date": "1932-02-24"
+},
+{
+"id": "sim_business-week_1932-03-02",
+"date": "1932-03-02"
+},
+{
+"id": "sim_business-week_1932-03-09",
+"date": "1932-03-09"
+},
+{
+"id": "sim_business-week_1932-03-16",
+"date": "1932-03-16"
+},
+{
+"id": "sim_business-week_1932-03-23",
+"date": "1932-03-23"
+},
+{
+"id": "sim_business-week_1932-03-30",
+"date": "1932-03-30"
+},
+{
+"id": "sim_business-week_1932-04-06",
+"date": "1932-04-06"
+},
+{
+"id": "sim_business-week_1932-04-13",
+"date": "1932-04-13"
+},
+{
+"id": "sim_business-week_1932-04-20",
+"date": "1932-04-20"
+},
+{
+"id": "sim_business-week_1932-04-27",
+"date": "1932-04-27"
+},
+{
+"id": "sim_business-week_1932-05-04",
+"date": "1932-05-04"
+},
+{
+"id": "sim_business-week_1932-05-11",
+"date": "1932-05-11"
+},
+{
+"id": "sim_business-week_1932-05-18",
+"date": "1932-05-18"
+},
+{
+"id": "sim_business-week_1932-05-25",
+"date": "1932-05-25"
+},
+{
+"id": "sim_business-week_1932-06-01",
+"date": "1932-06-01"
+},
+{
+"id": "sim_business-week_1932-06-08",
+"date": "1932-06-08"
+},
+{
+"id": "sim_business-week_1932-06-15",
+"date": "1932-06-15"
+},
+{
+"id": "sim_business-week_1932-06-22",
+"date": "1932-06-22"
+},
+{
+"id": "sim_business-week_1932-06-29",
+"date": "1932-06-29"
+},
+{
+"id": "sim_business-week_1932-07-06",
+"date": "1932-07-06"
+},
+{
+"id": "sim_business-week_1932-07-13",
+"date": "1932-07-13"
+},
+{
+"id": "sim_business-week_1932-07-20",
+"date": "1932-07-20"
+},
+{
+"id": "sim_business-week_1932-07-27",
+"date": "1932-07-27"
+},
+{
+"id": "sim_business-week_1932-08-03",
+"date": "1932-08-03"
+},
+{
+"id": "sim_business-week_1932-08-10",
+"date": "1932-08-10"
+},
+{
+"id": "sim_business-week_1932-08-17",
+"date": "1932-08-17"
+},
+{
+"id": "sim_business-week_1932-08-24",
+"date": "1932-08-24"
+},
+{
+"id": "sim_business-week_1932-08-31",
+"date": "1932-08-31"
+},
+{
+"id": "sim_business-week_1932-09-07",
+"date": "1932-09-07"
+},
+{
+"id": "sim_business-week_1932-09-14",
+"date": "1932-09-14"
+},
+{
+"id": "sim_business-week_1932-09-21",
+"date": "1932-09-21"
+},
+{
+"id": "sim_business-week_1932-09-28",
+"date": "1932-09-28"
+},
+{
+"id": "sim_business-week_1932-10-05",
+"date": "1932-10-05"
+},
+{
+"id": "sim_business-week_1932-10-12",
+"date": "1932-10-12"
+},
+{
+"id": "sim_business-week_1932-10-19",
+"date": "1932-10-19"
+},
+{
+"id": "sim_business-week_1932-10-26",
+"date": "1932-10-26"
+},
+{
+"id": "sim_business-week_1932-11-02",
+"date": "1932-11-02"
+},
+{
+"id": "sim_business-week_1932-11-09",
+"date": "1932-11-09"
+},
+{
+"id": "sim_business-week_1932-11-16",
+"date": "1932-11-16"
+},
+{
+"id": "sim_business-week_1932-11-23",
+"date": "1932-11-23"
+},
+{
+"id": "sim_business-week_1932-11-30",
+"date": "1932-11-30"
+},
+{
+"id": "sim_business-week_1932-12-07",
+"date": "1932-12-07"
+},
+{
+"id": "sim_business-week_1932-12-14",
+"date": "1932-12-14"
+},
+{
+"id": "sim_business-week_1932-12-21",
+"date": "1932-12-21"
+},
+{
+"id": "sim_business-week_1932-12-28",
+"date": "1932-12-28"
+},
+{
+"id": "sim_business-week_1933-01-04",
+"date": "1933-01-04"
+},
+{
+"id": "sim_business-week_1933-01-11",
+"date": "1933-01-11"
+},
+{
+"id": "sim_business-week_1933-01-18",
+"date": "1933-01-18"
+},
+{
+"id": "sim_business-week_1933-01-25",
+"date": "1933-01-25"
+},
+{
+"id": "sim_business-week_1933-02-01",
+"date": "1933-02-01"
+},
+{
+"id": "sim_business-week_1933-02-08",
+"date": "1933-02-08"
+},
+{
+"id": "sim_business-week_1933-02-15",
+"date": "1933-02-15"
+},
+{
+"id": "sim_business-week_1933-02-22",
+"date": "1933-02-22"
+},
+{
+"id": "sim_business-week_1933-03-01",
+"date": "1933-03-01"
+},
+{
+"id": "sim_business-week_1933-03-08",
+"date": "1933-03-08"
+},
+{
+"id": "sim_business-week_1933-03-15",
+"date": "1933-03-15"
+},
+{
+"id": "sim_business-week_1933-03-22",
+"date": "1933-03-22"
+},
+{
+"id": "sim_business-week_1933-03-29",
+"date": "1933-03-29"
+},
+{
+"id": "sim_business-week_1933-04-05",
+"date": "1933-04-05"
+},
+{
+"id": "sim_business-week_1933-04-12",
+"date": "1933-04-12"
+},
+{
+"id": "sim_business-week_1933-04-19",
+"date": "1933-04-19"
+},
+{
+"id": "sim_business-week_1933-04-26",
+"date": "1933-04-26"
+},
+{
+"id": "sim_business-week_1933-05-03",
+"date": "1933-05-03"
+},
+{
+"id": "sim_business-week_1933-05-10",
+"date": "1933-05-10"
+},
+{
+"id": "sim_business-week_1933-05-17",
+"date": "1933-05-17"
+},
+{
+"id": "sim_business-week_1933-05-24",
+"date": "1933-05-24"
+},
+{
+"id": "sim_business-week_1933-05-31",
+"date": "1933-05-31"
+},
+{
+"id": "sim_business-week_1933-06-07",
+"date": "1933-06-07"
+},
+{
+"id": "sim_business-week_1933-06-10",
+"date": "1933-06-10"
+},
+{
+"id": "sim_business-week_1933-06-17",
+"date": "1933-06-17"
+},
+{
+"id": "sim_business-week_1933-06-24",
+"date": "1933-06-24"
+},
+{
+"id": "sim_business-week_1933-07-01",
+"date": "1933-07-01"
+},
+{
+"id": "sim_business-week_1933-07-08",
+"date": "1933-07-08"
+},
+{
+"id": "sim_business-week_1933-07-15",
+"date": "1933-07-15"
+},
+{
+"id": "sim_business-week_1933-07-22",
+"date": "1933-07-22"
+},
+{
+"id": "sim_business-week_1933-07-29",
+"date": "1933-07-29"
+},
+{
+"id": "sim_business-week_1933-08-05",
+"date": "1933-08-05"
+},
+{
+"id": "sim_business-week_1933-08-12",
+"date": "1933-08-12"
+},
+{
+"id": "sim_business-week_1933-08-19",
+"date": "1933-08-19"
+},
+{
+"id": "sim_business-week_1933-08-26",
+"date": "1933-08-26"
+},
+{
+"id": "sim_business-week_1933-09-02",
+"date": "1933-09-02"
+},
+{
+"id": "sim_business-week_1933-09-09",
+"date": "1933-09-09"
+},
+{
+"id": "sim_business-week_1933-09-16",
+"date": "1933-09-16"
+},
+{
+"id": "sim_business-week_1933-09-23",
+"date": "1933-09-23"
+},
+{
+"id": "sim_business-week_1933-09-30",
+"date": "1933-09-30"
+},
+{
+"id": "sim_business-week_1933-10-07",
+"date": "1933-10-07"
+},
+{
+"id": "sim_business-week_1933-10-14",
+"date": "1933-10-14"
+},
+{
+"id": "sim_business-week_1933-10-21",
+"date": "1933-10-21"
+},
+{
+"id": "sim_business-week_1933-10-28",
+"date": "1933-10-28"
+},
+{
+"id": "sim_business-week_1933-11-04",
+"date": "1933-11-04"
+},
+{
+"id": "sim_business-week_1933-11-11",
+"date": "1933-11-11"
+},
+{
+"id": "sim_business-week_1933-11-18",
+"date": "1933-11-18"
+},
+{
+"id": "sim_business-week_1933-11-25",
+"date": "1933-11-25"
+},
+{
+"id": "sim_business-week_1933-12-02",
+"date": "1933-12-02"
+},
+{
+"id": "sim_business-week_1933-12-09",
+"date": "1933-12-09"
+},
+{
+"id": "sim_business-week_1933-12-16",
+"date": "1933-12-16"
+},
+{
+"id": "sim_business-week_1933-12-23",
+"date": "1933-12-23"
+},
+{
+"id": "sim_business-week_1933-12-30",
+"date": "1933-12-30"
+},
+{
+"id": "sim_business-week_1934-01-06",
+"date": "1934-01-06"
+},
+{
+"id": "sim_business-week_1934-01-13",
+"date": "1934-01-13"
+},
+{
+"id": "sim_business-week_1934-01-20",
+"date": "1934-01-20"
+},
+{
+"id": "sim_business-week_1934-01-27",
+"date": "1934-01-27"
+},
+{
+"id": "sim_business-week_1934-02-03",
+"date": "1934-02-03"
+},
+{
+"id": "sim_business-week_1934-02-10",
+"date": "1934-02-10"
+},
+{
+"id": "sim_business-week_1934-02-17",
+"date": "1934-02-17"
+},
+{
+"id": "sim_business-week_1934-02-24",
+"date": "1934-02-24"
+},
+{
+"id": "sim_business-week_1934-03-03",
+"date": "1934-03-03"
+},
+{
+"id": "sim_business-week_1934-03-10",
+"date": "1934-03-10"
+},
+{
+"id": "sim_business-week_1934-03-17",
+"date": "1934-03-17"
+},
+{
+"id": "sim_business-week_1934-03-24",
+"date": "1934-03-24"
+},
+{
+"id": "sim_business-week_1934-03-31",
+"date": "1934-03-31"
+},
+{
+"id": "sim_business-week_1934-04-07",
+"date": "1934-04-07"
+},
+{
+"id": "sim_business-week_1934-04-14",
+"date": "1934-04-14"
+},
+{
+"id": "sim_business-week_1934-04-21",
+"date": "1934-04-21"
+},
+{
+"id": "sim_business-week_1934-04-28",
+"date": "1934-04-28"
+},
+{
+"id": "sim_business-week_1934-05-05",
+"date": "1934-05-05"
+},
+{
+"id": "sim_business-week_1934-05-12",
+"date": "1934-05-12"
+},
+{
+"id": "sim_business-week_1934-05-19",
+"date": "1934-05-19"
+},
+{
+"id": "sim_business-week_1934-05-26",
+"date": "1934-05-26"
+},
+{
+"id": "sim_business-week_1934-06-02",
+"date": "1934-06-02"
+},
+{
+"id": "sim_business-week_1934-06-09",
+"date": "1934-06-09"
+},
+{
+"id": "sim_business-week_1934-06-16",
+"date": "1934-06-16"
+},
+{
+"id": "sim_business-week_1934-06-23",
+"date": "1934-06-23"
+},
+{
+"id": "sim_business-week_1934-06-30",
+"date": "1934-06-30"
+},
+{
+"id": "sim_business-week_1934-07-07",
+"date": "1934-07-07"
+},
+{
+"id": "sim_business-week_1934-07-14",
+"date": "1934-07-14"
+},
+{
+"id": "sim_business-week_1934-07-21",
+"date": "1934-07-21"
+},
+{
+"id": "sim_business-week_1934-07-28",
+"date": "1934-07-28"
+},
+{
+"id": "sim_business-week_1934-08-04",
+"date": "1934-08-04"
+},
+{
+"id": "sim_business-week_1934-08-11",
+"date": "1934-08-11"
+},
+{
+"id": "sim_business-week_1934-08-18",
+"date": "1934-08-18"
+},
+{
+"id": "sim_business-week_1934-08-25",
+"date": "1934-08-25"
+},
+{
+"id": "sim_business-week_1934-09-01",
+"date": "1934-09-01"
+},
+{
+"id": "sim_business-week_1934-09-08",
+"date": "1934-09-08"
+},
+{
+"id": "sim_business-week_1934-09-15",
+"date": "1934-09-15"
+},
+{
+"id": "sim_business-week_1934-09-22",
+"date": "1934-09-22"
+},
+{
+"id": "sim_business-week_1934-09-29",
+"date": "1934-09-29"
+},
+{
+"id": "sim_business-week_1934-10-06",
+"date": "1934-10-06"
+},
+{
+"id": "sim_business-week_1934-10-13",
+"date": "1934-10-13"
+},
+{
+"id": "sim_business-week_1934-10-20",
+"date": "1934-10-20"
+},
+{
+"id": "sim_business-week_1934-10-27",
+"date": "1934-10-27"
+},
+{
+"id": "sim_business-week_1934-11-03",
+"date": "1934-11-03"
+},
+{
+"id": "sim_business-week_1934-11-10",
+"date": "1934-11-10"
+},
+{
+"id": "sim_business-week_1934-11-17",
+"date": "1934-11-17"
+},
+{
+"id": "sim_business-week_1934-11-24",
+"date": "1934-11-24"
+},
+{
+"id": "sim_business-week_1934-12-01",
+"date": "1934-12-01"
+},
+{
+"id": "sim_business-week_1934-12-08",
+"date": "1934-12-08"
+},
+{
+"id": "sim_business-week_1934-12-15",
+"date": "1934-12-15"
+},
+{
+"id": "sim_business-week_1934-12-22",
+"date": "1934-12-22"
+},
+{
+"id": "sim_business-week_1934-12-29",
+"date": "1934-12-29"
+},
+{
+"id": "sim_business-week_1935-01-05",
+"date": "1935-01-05"
+},
+{
+"id": "sim_business-week_1935-01-12",
+"date": "1935-01-12"
+},
+{
+"id": "sim_business-week_1935-01-19",
+"date": "1935-01-19"
+},
+{
+"id": "sim_business-week_1935-01-26",
+"date": "1935-01-26"
+},
+{
+"id": "sim_business-week_1935-02-02",
+"date": "1935-02-02"
+},
+{
+"id": "sim_business-week_1935-02-09",
+"date": "1935-02-09"
+},
+{
+"id": "sim_business-week_1935-02-16",
+"date": "1935-02-16"
+},
+{
+"id": "sim_business-week_1935-02-23",
+"date": "1935-02-23"
+},
+{
+"id": "sim_business-week_1935-03-02",
+"date": "1935-03-02"
+},
+{
+"id": "sim_business-week_1935-03-09",
+"date": "1935-03-09"
+},
+{
+"id": "sim_business-week_1935-03-16",
+"date": "1935-03-16"
+},
+{
+"id": "sim_business-week_1935-03-23",
+"date": "1935-03-23"
+},
+{
+"id": "sim_business-week_1935-03-30",
+"date": "1935-03-30"
+},
+{
+"id": "sim_business-week_1935-04-06",
+"date": "1935-04-06"
+},
+{
+"id": "sim_business-week_1935-04-13",
+"date": "1935-04-13"
+},
+{
+"id": "sim_business-week_1935-04-20",
+"date": "1935-04-20"
+},
+{
+"id": "sim_business-week_1935-04-27",
+"date": "1935-04-27"
+},
+{
+"id": "sim_business-week_1935-05-04",
+"date": "1935-05-04"
+},
+{
+"id": "sim_business-week_1935-05-11",
+"date": "1935-05-11"
+},
+{
+"id": "sim_business-week_1935-05-18",
+"date": "1935-05-18"
+},
+{
+"id": "sim_business-week_1935-05-25",
+"date": "1935-05-25"
+},
+{
+"id": "sim_business-week_1935-06-01",
+"date": "1935-06-01"
+},
+{
+"id": "sim_business-week_1935-06-08",
+"date": "1935-06-08"
+},
+{
+"id": "sim_business-week_1935-06-15",
+"date": "1935-06-15"
+},
+{
+"id": "sim_business-week_1935-06-22",
+"date": "1935-06-22"
+},
+{
+"id": "sim_business-week_1935-06-29",
+"date": "1935-06-29"
+},
+{
+"id": "sim_business-week_1935-07-06",
+"date": "1935-07-06"
+},
+{
+"id": "sim_business-week_1935-07-13",
+"date": "1935-07-13"
+},
+{
+"id": "sim_business-week_1935-07-20",
+"date": "1935-07-20"
+},
+{
+"id": "sim_business-week_1935-07-27",
+"date": "1935-07-27"
+},
+{
+"id": "sim_business-week_1935-08-03",
+"date": "1935-08-03"
+},
+{
+"id": "sim_business-week_1935-08-10",
+"date": "1935-08-10"
+},
+{
+"id": "sim_business-week_1935-08-17",
+"date": "1935-08-17"
+},
+{
+"id": "sim_business-week_1935-08-24",
+"date": "1935-08-24"
+},
+{
+"id": "sim_business-week_1935-08-31",
+"date": "1935-08-31"
+},
+{
+"id": "sim_business-week_1935-09-07",
+"date": "1935-09-07"
+},
+{
+"id": "sim_business-week_1935-09-14",
+"date": "1935-09-14"
+},
+{
+"id": "sim_business-week_1935-09-21",
+"date": "1935-09-21"
+},
+{
+"id": "sim_business-week_1935-09-28",
+"date": "1935-09-28"
+},
+{
+"id": "sim_business-week_1935-10-05",
+"date": "1935-10-05"
+},
+{
+"id": "sim_business-week_1935-10-12",
+"date": "1935-10-12"
+},
+{
+"id": "sim_business-week_1935-10-19",
+"date": "1935-10-19"
+},
+{
+"id": "sim_business-week_1935-10-26",
+"date": "1935-10-26"
+},
+{
+"id": "sim_business-week_1935-11-02",
+"date": "1935-11-02"
+},
+{
+"id": "sim_business-week_1935-11-09",
+"date": "1935-11-09"
+},
+{
+"id": "sim_business-week_1935-11-16",
+"date": "1935-11-16"
+},
+{
+"id": "sim_business-week_1935-11-23",
+"date": "1935-11-23"
+},
+{
+"id": "sim_business-week_1935-11-30",
+"date": "1935-11-30"
+},
+{
+"id": "sim_business-week_1935-12-07",
+"date": "1935-12-07"
+},
+{
+"id": "sim_business-week_1935-12-14",
+"date": "1935-12-14"
+},
+{
+"id": "sim_business-week_1935-12-21",
+"date": "1935-12-21"
+},
+{
+"id": "sim_business-week_1935-12-28",
+"date": "1935-12-28"
+},
+{
+"id": "sim_business-week_1936-01-04",
+"date": "1936-01-04"
+},
+{
+"id": "sim_business-week_1936-01-11",
+"date": "1936-01-11"
+},
+{
+"id": "sim_business-week_1936-01-18",
+"date": "1936-01-18"
+},
+{
+"id": "sim_business-week_1936-01-25",
+"date": "1936-01-25"
+},
+{
+"id": "sim_business-week_1936-02-01",
+"date": "1936-02-01"
+},
+{
+"id": "sim_business-week_1936-02-08",
+"date": "1936-02-08"
+},
+{
+"id": "sim_business-week_1936-02-15",
+"date": "1936-02-15"
+},
+{
+"id": "sim_business-week_1936-02-22",
+"date": "1936-02-22"
+},
+{
+"id": "sim_business-week_1936-02-29",
+"date": "1936-02-29"
+},
+{
+"id": "sim_business-week_1936-03-07",
+"date": "1936-03-07"
+},
+{
+"id": "sim_business-week_1936-03-14",
+"date": "1936-03-14"
+},
+{
+"id": "sim_business-week_1936-03-21",
+"date": "1936-03-21"
+},
+{
+"id": "sim_business-week_1936-03-28",
+"date": "1936-03-28"
+},
+{
+"id": "sim_business-week_1936-04-04",
+"date": "1936-04-04"
+},
+{
+"id": "sim_business-week_1936-04-11",
+"date": "1936-04-11"
+},
+{
+"id": "sim_business-week_1936-04-18",
+"date": "1936-04-18"
+},
+{
+"id": "sim_business-week_1936-04-25",
+"date": "1936-04-25"
+},
+{
+"id": "sim_business-week_1936-05-02",
+"date": "1936-05-02"
+},
+{
+"id": "sim_business-week_1936-05-09",
+"date": "1936-05-09"
+},
+{
+"id": "sim_business-week_1936-05-16",
+"date": "1936-05-16"
+},
+{
+"id": "sim_business-week_1936-05-23",
+"date": "1936-05-23"
+},
+{
+"id": "sim_business-week_1936-05-30",
+"date": "1936-05-30"
+},
+{
+"id": "sim_business-week_1936-06-06",
+"date": "1936-06-06"
+},
+{
+"id": "sim_business-week_1936-06-13",
+"date": "1936-06-13"
+},
+{
+"id": "sim_business-week_1936-06-20",
+"date": "1936-06-20"
+},
+{
+"id": "sim_business-week_1936-06-27",
+"date": "1936-06-27"
+},
+{
+"id": "sim_business-week_1936-07-04",
+"date": "1936-07-04"
+},
+{
+"id": "sim_business-week_1936-07-11",
+"date": "1936-07-11"
+},
+{
+"id": "sim_business-week_1936-07-18",
+"date": "1936-07-18"
+},
+{
+"id": "sim_business-week_1936-07-25",
+"date": "1936-07-25"
+},
+{
+"id": "sim_business-week_1936-08-01",
+"date": "1936-08-01"
+},
+{
+"id": "sim_business-week_1936-08-08",
+"date": "1936-08-08"
+},
+{
+"id": "sim_business-week_1936-08-15",
+"date": "1936-08-15"
+},
+{
+"id": "sim_business-week_1936-08-22",
+"date": "1936-08-22"
+},
+{
+"id": "sim_business-week_1936-08-29",
+"date": "1936-08-29"
+},
+{
+"id": "sim_business-week_1936-09-05",
+"date": "1936-09-05"
+},
+{
+"id": "sim_business-week_1936-09-12",
+"date": "1936-09-12"
+},
+{
+"id": "sim_business-week_1936-09-19",
+"date": "1936-09-19"
+},
+{
+"id": "sim_business-week_1936-09-26",
+"date": "1936-09-26"
+},
+{
+"id": "sim_business-week_1936-10-03",
+"date": "1936-10-03"
+},
+{
+"id": "sim_business-week_1936-10-10",
+"date": "1936-10-10"
+},
+{
+"id": "sim_business-week_1936-10-17",
+"date": "1936-10-17"
+},
+{
+"id": "sim_business-week_1936-10-24",
+"date": "1936-10-24"
+},
+{
+"id": "sim_business-week_1936-10-31",
+"date": "1936-10-31"
+},
+{
+"id": "sim_business-week_1936-11-07",
+"date": "1936-11-07"
+},
+{
+"id": "sim_business-week_1936-11-14",
+"date": "1936-11-14"
+},
+{
+"id": "sim_business-week_1936-11-21",
+"date": "1936-11-21"
+},
+{
+"id": "sim_business-week_1936-11-28",
+"date": "1936-11-28"
+},
+{
+"id": "sim_business-week_1936-12-05",
+"date": "1936-12-05"
+},
+{
+"id": "sim_business-week_1936-12-12",
+"date": "1936-12-12"
+},
+{
+"id": "sim_business-week_1936-12-19",
+"date": "1936-12-19"
+},
+{
+"id": "sim_business-week_1936-12-26",
+"date": "1936-12-26"
+},
+{
+"id": "sim_business-week_1937-01-02",
+"date": "1937-01-02"
+},
+{
+"id": "sim_business-week_1937-01-09",
+"date": "1937-01-09"
+},
+{
+"id": "sim_business-week_1937-01-16",
+"date": "1937-01-16"
+},
+{
+"id": "sim_business-week_1937-01-23",
+"date": "1937-01-23"
+},
+{
+"id": "sim_business-week_1937-01-30",
+"date": "1937-01-30"
+},
+{
+"id": "sim_business-week_1937-02-06",
+"date": "1937-02-06"
+},
+{
+"id": "sim_business-week_1937-02-13",
+"date": "1937-02-13"
+},
+{
+"id": "sim_business-week_1937-02-20",
+"date": "1937-02-20"
+},
+{
+"id": "sim_business-week_1937-02-27",
+"date": "1937-02-27"
+},
+{
+"id": "sim_business-week_1937-03-06",
+"date": "1937-03-06"
+},
+{
+"id": "sim_business-week_1937-03-13",
+"date": "1937-03-13"
+},
+{
+"id": "sim_business-week_1937-03-20",
+"date": "1937-03-20"
+},
+{
+"id": "sim_business-week_1937-03-27",
+"date": "1937-03-27"
+},
+{
+"id": "sim_business-week_1937-04-03",
+"date": "1937-04-03"
+},
+{
+"id": "sim_business-week_1937-04-10",
+"date": "1937-04-10"
+},
+{
+"id": "sim_business-week_1937-04-17",
+"date": "1937-04-17"
+},
+{
+"id": "sim_business-week_1937-04-24",
+"date": "1937-04-24"
+},
+{
+"id": "sim_business-week_1937-05-01",
+"date": "1937-05-01"
+},
+{
+"id": "sim_business-week_1937-05-08",
+"date": "1937-05-08"
+},
+{
+"id": "sim_business-week_1937-05-15",
+"date": "1937-05-15"
+},
+{
+"id": "sim_business-week_1937-05-22",
+"date": "1937-05-22"
+},
+{
+"id": "sim_business-week_1937-05-29",
+"date": "1937-05-29"
+},
+{
+"id": "sim_business-week_1937-06-05",
+"date": "1937-06-05"
+},
+{
+"id": "sim_business-week_1937-06-12",
+"date": "1937-06-12"
+},
+{
+"id": "sim_business-week_1937-06-19",
+"date": "1937-06-19"
+},
+{
+"id": "sim_business-week_1937-06-26",
+"date": "1937-06-26"
+},
+{
+"id": "sim_business-week_1937-07-03",
+"date": "1937-07-03"
+},
+{
+"id": "sim_business-week_1937-07-10",
+"date": "1937-07-10"
+},
+{
+"id": "sim_business-week_1937-07-17",
+"date": "1937-07-17"
+},
+{
+"id": "sim_business-week_1937-07-24",
+"date": "1937-07-24"
+},
+{
+"id": "sim_business-week_1937-07-31",
+"date": "1937-07-31"
+},
+{
+"id": "sim_business-week_1937-08-07",
+"date": "1937-08-07"
+},
+{
+"id": "sim_business-week_1937-08-14",
+"date": "1937-08-14"
+},
+{
+"id": "sim_business-week_1937-08-21",
+"date": "1937-08-21"
+},
+{
+"id": "sim_business-week_1937-08-28",
+"date": "1937-08-28"
+},
+{
+"id": "sim_business-week_1937-09-04",
+"date": "1937-09-04"
+},
+{
+"id": "sim_business-week_1937-09-11",
+"date": "1937-09-11"
+},
+{
+"id": "sim_business-week_1937-09-18",
+"date": "1937-09-18"
+},
+{
+"id": "sim_business-week_1937-09-25",
+"date": "1937-09-25"
+},
+{
+"id": "sim_business-week_1937-10-02",
+"date": "1937-10-02"
+},
+{
+"id": "sim_business-week_1937-10-09",
+"date": "1937-10-09"
+},
+{
+"id": "sim_business-week_1937-10-16",
+"date": "1937-10-16"
+},
+{
+"id": "sim_business-week_1937-10-23",
+"date": "1937-10-23"
+},
+{
+"id": "sim_business-week_1937-10-30",
+"date": "1937-10-30"
+},
+{
+"id": "sim_business-week_1937-11-06",
+"date": "1937-11-06"
+},
+{
+"id": "sim_business-week_1937-11-13",
+"date": "1937-11-13"
+},
+{
+"id": "sim_business-week_1937-11-20",
+"date": "1937-11-20"
+},
+{
+"id": "sim_business-week_1937-11-27",
+"date": "1937-11-27"
+},
+{
+"id": "sim_business-week_1937-12-04",
+"date": "1937-12-04"
+},
+{
+"id": "sim_business-week_1937-12-11",
+"date": "1937-12-11"
+},
+{
+"id": "sim_business-week_1937-12-18",
+"date": "1937-12-18"
+},
+{
+"id": "sim_business-week_1937-12-25",
+"date": "1937-12-25"
+},
+{
+"id": "sim_business-week_1938-01-01",
+"date": "1938-01-01"
+},
+{
+"id": "sim_business-week_1938-01-08",
+"date": "1938-01-08"
+},
+{
+"id": "sim_business-week_1938-01-15",
+"date": "1938-01-15"
+},
+{
+"id": "sim_business-week_1938-01-22",
+"date": "1938-01-22"
+},
+{
+"id": "sim_business-week_1938-01-29",
+"date": "1938-01-29"
+},
+{
+"id": "sim_business-week_1938-02-05",
+"date": "1938-02-05"
+},
+{
+"id": "sim_business-week_1938-02-12",
+"date": "1938-02-12"
+},
+{
+"id": "sim_business-week_1938-02-19",
+"date": "1938-02-19"
+},
+{
+"id": "sim_business-week_1938-02-26",
+"date": "1938-02-26"
+},
+{
+"id": "sim_business-week_1938-03-05",
+"date": "1938-03-05"
+},
+{
+"id": "sim_business-week_1938-03-12",
+"date": "1938-03-12"
+},
+{
+"id": "sim_business-week_1938-03-19",
+"date": "1938-03-19"
+},
+{
+"id": "sim_business-week_1938-03-26",
+"date": "1938-03-26"
+},
+{
+"id": "sim_business-week_1938-04-02",
+"date": "1938-04-02"
+},
+{
+"id": "sim_business-week_1938-04-09",
+"date": "1938-04-09"
+},
+{
+"id": "sim_business-week_1938-04-16",
+"date": "1938-04-16"
+},
+{
+"id": "sim_business-week_1938-04-23",
+"date": "1938-04-23"
+},
+{
+"id": "sim_business-week_1938-04-30",
+"date": "1938-04-30"
+},
+{
+"id": "sim_business-week_1938-05-07",
+"date": "1938-05-07"
+},
+{
+"id": "sim_business-week_1938-05-14",
+"date": "1938-05-14"
+},
+{
+"id": "sim_business-week_1938-05-21",
+"date": "1938-05-21"
+},
+{
+"id": "sim_business-week_1938-05-28",
+"date": "1938-05-28"
+},
+{
+"id": "sim_business-week_1938-06-04",
+"date": "1938-06-04"
+},
+{
+"id": "sim_business-week_1938-06-11",
+"date": "1938-06-11"
+},
+{
+"id": "sim_business-week_1938-06-18",
+"date": "1938-06-18"
+},
+{
+"id": "sim_business-week_1938-06-25",
+"date": "1938-06-25"
+},
+{
+"id": "sim_business-week_1938-07-02",
+"date": "1938-07-02"
+},
+{
+"id": "sim_business-week_1938-07-09",
+"date": "1938-07-09"
+},
+{
+"id": "sim_business-week_1938-07-16",
+"date": "1938-07-16"
+},
+{
+"id": "sim_business-week_1938-07-23",
+"date": "1938-07-23"
+},
+{
+"id": "sim_business-week_1938-07-30",
+"date": "1938-07-30"
+},
+{
+"id": "sim_business-week_1938-08-06",
+"date": "1938-08-06"
+},
+{
+"id": "sim_business-week_1938-08-13",
+"date": "1938-08-13"
+},
+{
+"id": "sim_business-week_1938-08-20",
+"date": "1938-08-20"
+},
+{
+"id": "sim_business-week_1938-08-27",
+"date": "1938-08-27"
+},
+{
+"id": "sim_business-week_1938-09-03",
+"date": "1938-09-03"
+},
+{
+"id": "sim_business-week_1938-09-10",
+"date": "1938-09-10"
+},
+{
+"id": "sim_business-week_1938-09-17",
+"date": "1938-09-17"
+},
+{
+"id": "sim_business-week_1938-09-24",
+"date": "1938-09-24"
+},
+{
+"id": "sim_business-week_1938-10-01",
+"date": "1938-10-01"
+},
+{
+"id": "sim_business-week_1938-10-08",
+"date": "1938-10-08"
+},
+{
+"id": "sim_business-week_1938-10-15",
+"date": "1938-10-15"
+},
+{
+"id": "sim_business-week_1938-10-22",
+"date": "1938-10-22"
+},
+{
+"id": "sim_business-week_1938-10-29",
+"date": "1938-10-29"
+},
+{
+"id": "sim_business-week_1938-11-05",
+"date": "1938-11-05"
+},
+{
+"id": "sim_business-week_1938-11-12",
+"date": "1938-11-12"
+},
+{
+"id": "sim_business-week_1938-11-19",
+"date": "1938-11-19"
+},
+{
+"id": "sim_business-week_1938-11-26",
+"date": "1938-11-26"
+},
+{
+"id": "sim_business-week_1938-12-03",
+"date": "1938-12-03"
+},
+{
+"id": "sim_business-week_1938-12-10",
+"date": "1938-12-10"
+},
+{
+"id": "sim_business-week_1938-12-17",
+"date": "1938-12-17"
+},
+{
+"id": "sim_business-week_1938-12-24",
+"date": "1938-12-24"
+},
+{
+"id": "sim_business-week_1938-12-31",
+"date": "1938-12-31"
+},
+{
+"id": "sim_business-week_1939-01-07",
+"date": "1939-01-07"
+},
+{
+"id": "sim_business-week_1939-01-14",
+"date": "1939-01-14"
+},
+{
+"id": "sim_business-week_1939-01-21",
+"date": "1939-01-21"
+},
+{
+"id": "sim_business-week_1939-01-28",
+"date": "1939-01-28"
+},
+{
+"id": "sim_business-week_1939-02-04",
+"date": "1939-02-04"
+},
+{
+"id": "sim_business-week_1939-02-11",
+"date": "1939-02-11"
+},
+{
+"id": "sim_business-week_1939-02-18",
+"date": "1939-02-18"
+},
+{
+"id": "sim_business-week_1939-02-25",
+"date": "1939-02-25"
+},
+{
+"id": "sim_business-week_1939-03-04",
+"date": "1939-03-04"
+},
+{
+"id": "sim_business-week_1939-03-11",
+"date": "1939-03-11"
+},
+{
+"id": "sim_business-week_1939-03-18",
+"date": "1939-03-18"
+},
+{
+"id": "sim_business-week_1939-03-25",
+"date": "1939-03-25"
+},
+{
+"id": "sim_business-week_1939-04-01",
+"date": "1939-04-01"
+},
+{
+"id": "sim_business-week_1939-04-08",
+"date": "1939-04-08"
+},
+{
+"id": "sim_business-week_1939-04-15",
+"date": "1939-04-15"
+},
+{
+"id": "sim_business-week_1939-04-22",
+"date": "1939-04-22"
+},
+{
+"id": "sim_business-week_1939-04-29",
+"date": "1939-04-29"
+},
+{
+"id": "sim_business-week_1939-05-06",
+"date": "1939-05-06"
+},
+{
+"id": "sim_business-week_1939-05-13",
+"date": "1939-05-13"
+},
+{
+"id": "sim_business-week_1939-05-20",
+"date": "1939-05-20"
+},
+{
+"id": "sim_business-week_1939-05-27",
+"date": "1939-05-27"
+},
+{
+"id": "sim_business-week_1939-06-03",
+"date": "1939-06-03"
+},
+{
+"id": "sim_business-week_1939-06-10",
+"date": "1939-06-10"
+},
+{
+"id": "sim_business-week_1939-06-17",
+"date": "1939-06-17"
+},
+{
+"id": "sim_business-week_1939-06-24",
+"date": "1939-06-24"
+},
+{
+"id": "sim_business-week_1939-07-01",
+"date": "1939-07-01"
+},
+{
+"id": "sim_business-week_1939-07-08",
+"date": "1939-07-08"
+},
+{
+"id": "sim_business-week_1939-07-15",
+"date": "1939-07-15"
+},
+{
+"id": "sim_business-week_1939-07-22",
+"date": "1939-07-22"
+},
+{
+"id": "sim_business-week_1939-07-29",
+"date": "1939-07-29"
+},
+{
+"id": "sim_business-week_1939-08-05",
+"date": "1939-08-05"
+},
+{
+"id": "sim_business-week_1939-08-12",
+"date": "1939-08-12"
+},
+{
+"id": "sim_business-week_1939-08-19",
+"date": "1939-08-19"
+},
+{
+"id": "sim_business-week_1939-08-26",
+"date": "1939-08-26"
+},
+{
+"id": "sim_business-week_1939-09-02",
+"date": "1939-09-02"
+},
+{
+"id": "sim_business-week_1939-09-09",
+"date": "1939-09-09"
+},
+{
+"id": "sim_business-week_1939-09-16",
+"date": "1939-09-16"
+},
+{
+"id": "sim_business-week_1939-09-23",
+"date": "1939-09-23"
+},
+{
+"id": "sim_business-week_1939-09-30",
+"date": "1939-09-30"
+},
+{
+"id": "sim_business-week_1939-10-07",
+"date": "1939-10-07"
+},
+{
+"id": "sim_business-week_1939-10-14",
+"date": "1939-10-14"
+},
+{
+"id": "sim_business-week_1939-10-21",
+"date": "1939-10-21"
+},
+{
+"id": "sim_business-week_1939-10-28",
+"date": "1939-10-28"
+},
+{
+"id": "sim_business-week_1939-11-04",
+"date": "1939-11-04"
+},
+{
+"id": "sim_business-week_1939-11-11",
+"date": "1939-11-11"
+},
+{
+"id": "sim_business-week_1939-11-18",
+"date": "1939-11-18"
+},
+{
+"id": "sim_business-week_1939-11-25",
+"date": "1939-11-25"
+},
+{
+"id": "sim_business-week_1939-12-02",
+"date": "1939-12-02"
+},
+{
+"id": "sim_business-week_1939-12-09",
+"date": "1939-12-09"
+},
+{
+"id": "sim_business-week_1939-12-16",
+"date": "1939-12-16"
+},
+{
+"id": "sim_business-week_1939-12-23",
+"date": "1939-12-23"
+},
+{
+"id": "sim_business-week_1939-12-30",
+"date": "1939-12-30"
+},
+{
+"id": "sim_business-week_1940-01-06",
+"date": "1940-01-06"
+},
+{
+"id": "sim_business-week_1940-01-13",
+"date": "1940-01-13"
+},
+{
+"id": "sim_business-week_1940-01-20",
+"date": "1940-01-20"
+},
+{
+"id": "sim_business-week_1940-01-27",
+"date": "1940-01-27"
+},
+{
+"id": "sim_business-week_1940-02-03",
+"date": "1940-02-03"
+},
+{
+"id": "sim_business-week_1940-02-10",
+"date": "1940-02-10"
+},
+{
+"id": "sim_business-week_1940-02-17",
+"date": "1940-02-17"
+},
+{
+"id": "sim_business-week_1940-02-24",
+"date": "1940-02-24"
+},
+{
+"id": "sim_business-week_1940-03-02",
+"date": "1940-03-02"
+},
+{
+"id": "sim_business-week_1940-03-09",
+"date": "1940-03-09"
+},
+{
+"id": "sim_business-week_1940-03-16",
+"date": "1940-03-16"
+},
+{
+"id": "sim_business-week_1940-03-23",
+"date": "1940-03-23"
+},
+{
+"id": "sim_business-week_1940-03-30",
+"date": "1940-03-30"
+},
+{
+"id": "sim_business-week_1940-04-06",
+"date": "1940-04-06"
+},
+{
+"id": "sim_business-week_1940-04-13",
+"date": "1940-04-13"
+},
+{
+"id": "sim_business-week_1940-04-20",
+"date": "1940-04-20"
+},
+{
+"id": "sim_business-week_1940-04-27",
+"date": "1940-04-27"
+},
+{
+"id": "sim_business-week_1940-05-04",
+"date": "1940-05-04"
+},
+{
+"id": "sim_business-week_1940-05-11",
+"date": "1940-05-11"
+},
+{
+"id": "sim_business-week_1940-05-18",
+"date": "1940-05-18"
+},
+{
+"id": "sim_business-week_1940-05-25",
+"date": "1940-05-25"
+},
+{
+"id": "sim_business-week_1940-06-01",
+"date": "1940-06-01"
+},
+{
+"id": "sim_business-week_1940-06-08",
+"date": "1940-06-08"
+},
+{
+"id": "sim_business-week_1940-06-15",
+"date": "1940-06-15"
+},
+{
+"id": "sim_business-week_1940-06-22",
+"date": "1940-06-22"
+},
+{
+"id": "sim_business-week_1940-06-29",
+"date": "1940-06-29"
+},
+{
+"id": "sim_business-week_1940-07-06",
+"date": "1940-07-06"
+},
+{
+"id": "sim_business-week_1940-07-13",
+"date": "1940-07-13"
+},
+{
+"id": "sim_business-week_1940-07-20",
+"date": "1940-07-20"
+},
+{
+"id": "sim_business-week_1940-07-27",
+"date": "1940-07-27"
+},
+{
+"id": "sim_business-week_1940-08-03",
+"date": "1940-08-03"
+},
+{
+"id": "sim_business-week_1940-08-10",
+"date": "1940-08-10"
+},
+{
+"id": "sim_business-week_1940-08-17",
+"date": "1940-08-17"
+},
+{
+"id": "sim_business-week_1940-08-24",
+"date": "1940-08-24"
+},
+{
+"id": "sim_business-week_1940-08-31",
+"date": "1940-08-31"
+},
+{
+"id": "sim_business-week_1940-09-07",
+"date": "1940-09-07"
+},
+{
+"id": "sim_business-week_1940-09-14",
+"date": "1940-09-14"
+},
+{
+"id": "sim_business-week_1940-09-21",
+"date": "1940-09-21"
+},
+{
+"id": "sim_business-week_1940-09-28",
+"date": "1940-09-28"
+},
+{
+"id": "sim_business-week_1940-10-05",
+"date": "1940-10-05"
+},
+{
+"id": "sim_business-week_1940-10-12",
+"date": "1940-10-12"
+},
+{
+"id": "sim_business-week_1940-10-19",
+"date": "1940-10-19"
+},
+{
+"id": "sim_business-week_1940-10-26",
+"date": "1940-10-26"
+},
+{
+"id": "sim_business-week_1940-11-02",
+"date": "1940-11-02"
+},
+{
+"id": "sim_business-week_1940-11-09",
+"date": "1940-11-09"
+},
+{
+"id": "sim_business-week_1940-11-16",
+"date": "1940-11-16"
+},
+{
+"id": "sim_business-week_1940-11-23",
+"date": "1940-11-23"
+},
+{
+"id": "sim_business-week_1940-11-30",
+"date": "1940-11-30"
+},
+{
+"id": "sim_business-week_1940-12-07",
+"date": "1940-12-07"
+},
+{
+"id": "sim_business-week_1940-12-14",
+"date": "1940-12-14"
+},
+{
+"id": "sim_business-week_1940-12-21",
+"date": "1940-12-21"
+},
+{
+"id": "sim_business-week_1940-12-28",
+"date": "1940-12-28"
+},
+{
+"id": "sim_business-week_1941-01-04_592",
+"date": "1941-01-04"
+},
+{
+"id": "sim_business-week_1941-01-11_593",
+"date": "1941-01-11"
+},
+{
+"id": "sim_business-week_1941-01-18_594",
+"date": "1941-01-18"
+},
+{
+"id": "sim_business-week_1941-01-25_595",
+"date": "1941-01-25"
+},
+{
+"id": "sim_business-week_1941-02-01_596",
+"date": "1941-02-01"
+},
+{
+"id": "sim_business-week_1941-02-08_597",
+"date": "1941-02-08"
+},
+{
+"id": "sim_business-week_1941-02-15_598",
+"date": "1941-02-15"
+},
+{
+"id": "sim_business-week_1941-02-22_599",
+"date": "1941-02-22"
+},
+{
+"id": "sim_business-week_1941-03-01_600",
+"date": "1941-03-01"
+},
+{
+"id": "sim_business-week_1941-03-08_601",
+"date": "1941-03-08"
+},
+{
+"id": "sim_business-week_1941-03-15_602",
+"date": "1941-03-15"
+},
+{
+"id": "sim_business-week_1941-03-22_603",
+"date": "1941-03-22"
+},
+{
+"id": "sim_business-week_1941-03-29_604",
+"date": "1941-03-29"
+},
+{
+"id": "sim_business-week_1941-04-05_605",
+"date": "1941-04-05"
+},
+{
+"id": "sim_business-week_1941-04-12_606",
+"date": "1941-04-12"
+},
+{
+"id": "sim_business-week_1941-04-19_607",
+"date": "1941-04-19"
+},
+{
+"id": "sim_business-week_1941-04-26_608",
+"date": "1941-04-26"
+},
+{
+"id": "sim_business-week_1941-05-03_609",
+"date": "1941-05-03"
+},
+{
+"id": "sim_business-week_1941-05-10_610",
+"date": "1941-05-10"
+},
+{
+"id": "sim_business-week_1941-05-17_611",
+"date": "1941-05-17"
+},
+{
+"id": "sim_business-week_1941-05-24_612",
+"date": "1941-05-24"
+},
+{
+"id": "sim_business-week_1941-05-31_613",
+"date": "1941-05-31"
+},
+{
+"id": "sim_business-week_1941-06-07_614",
+"date": "1941-06-07"
+},
+{
+"id": "sim_business-week_1941-06-14_615",
+"date": "1941-06-14"
+},
+{
+"id": "sim_business-week_1941-06-21_616",
+"date": "1941-06-21"
+},
+{
+"id": "sim_business-week_1941-06-28_617",
+"date": "1941-06-28"
+},
+{
+"id": "sim_business-week_1941-07-05_618",
+"date": "1941-07-05"
+},
+{
+"id": "sim_business-week_1941-07-12_619",
+"date": "1941-07-12"
+},
+{
+"id": "sim_business-week_1941-07-19_620",
+"date": "1941-07-19"
+},
+{
+"id": "sim_business-week_1941-07-26_621",
+"date": "1941-07-26"
+},
+{
+"id": "sim_business-week_1941-08-02_622",
+"date": "1941-08-02"
+},
+{
+"id": "sim_business-week_1941-08-09_623",
+"date": "1941-08-09"
+},
+{
+"id": "sim_business-week_1941-08-16_624",
+"date": "1941-08-16"
+},
+{
+"id": "sim_business-week_1941-08-23_625",
+"date": "1941-08-23"
+},
+{
+"id": "sim_business-week_1941-08-30_626",
+"date": "1941-08-30"
+},
+{
+"id": "sim_business-week_1941-09-06_627",
+"date": "1941-09-06"
+},
+{
+"id": "sim_business-week_1941-09-13_628",
+"date": "1941-09-13"
+},
+{
+"id": "sim_business-week_1941-09-20_629",
+"date": "1941-09-20"
+},
+{
+"id": "sim_business-week_1941-09-27_630",
+"date": "1941-09-27"
+},
+{
+"id": "sim_business-week_1941-10-04_631",
+"date": "1941-10-04"
+},
+{
+"id": "sim_business-week_1941-10-11_632",
+"date": "1941-10-11"
+},
+{
+"id": "sim_business-week_1941-10-18_633",
+"date": "1941-10-18"
+},
+{
+"id": "sim_business-week_1941-10-25_634",
+"date": "1941-10-25"
+},
+{
+"id": "sim_business-week_1941-11-01_635",
+"date": "1941-11-01"
+},
+{
+"id": "sim_business-week_1941-11-08_636",
+"date": "1941-11-08"
+},
+{
+"id": "sim_business-week_1941-11-15_637",
+"date": "1941-11-15"
+},
+{
+"id": "sim_business-week_1941-11-22_638",
+"date": "1941-11-22"
+},
+{
+"id": "sim_business-week_1941-11-29_639",
+"date": "1941-11-29"
+},
+{
+"id": "sim_business-week_1941-12-06_640",
+"date": "1941-12-06"
+},
+{
+"id": "sim_business-week_1941-12-13_641",
+"date": "1941-12-13"
+},
+{
+"id": "sim_business-week_1941-12-20_642",
+"date": "1941-12-20"
+},
+{
+"id": "sim_business-week_1941-12-27_643",
+"date": "1941-12-27"
+},
+{
+"id": "sim_business-week_1942-01-03_644",
+"date": "1942-01-03"
+},
+{
+"id": "sim_business-week_1942-01-10_645",
+"date": "1942-01-10"
+},
+{
+"id": "sim_business-week_1942-01-17_646",
+"date": "1942-01-17"
+},
+{
+"id": "sim_business-week_1942-01-24_647",
+"date": "1942-01-24"
+},
+{
+"id": "sim_business-week_1942-01-31_648",
+"date": "1942-01-31"
+},
+{
+"id": "sim_business-week_1942-02-07_649",
+"date": "1942-02-07"
+},
+{
+"id": "sim_business-week_1942-02-14_650",
+"date": "1942-02-14"
+},
+{
+"id": "sim_business-week_1942-02-21_651",
+"date": "1942-02-21"
+},
+{
+"id": "sim_business-week_1942-02-28_652",
+"date": "1942-02-28"
+},
+{
+"id": "sim_business-week_1942-03-07_653",
+"date": "1942-03-07"
+},
+{
+"id": "sim_business-week_1942-03-14_654",
+"date": "1942-03-14"
+},
+{
+"id": "sim_business-week_1942-03-21_655",
+"date": "1942-03-21"
+},
+{
+"id": "sim_business-week_1942-03-28_656",
+"date": "1942-03-28"
+},
+{
+"id": "sim_business-week_1942-04-04_657",
+"date": "1942-04-04"
+},
+{
+"id": "sim_business-week_1942-04-11_658",
+"date": "1942-04-11"
+},
+{
+"id": "sim_business-week_1942-04-18_659",
+"date": "1942-04-18"
+},
+{
+"id": "sim_business-week_1942-04-25_660",
+"date": "1942-04-25"
+},
+{
+"id": "sim_business-week_1942-05-02_661",
+"date": "1942-05-02"
+},
+{
+"id": "sim_business-week_1942-05-09_662",
+"date": "1942-05-09"
+},
+{
+"id": "sim_business-week_1942-05-16_663",
+"date": "1942-05-16"
+},
+{
+"id": "sim_business-week_1942-05-23_664",
+"date": "1942-05-23"
+},
+{
+"id": "sim_business-week_1942-05-30_665",
+"date": "1942-05-30"
+},
+{
+"id": "sim_business-week_1942-06-06_666",
+"date": "1942-06-06"
+},
+{
+"id": "sim_business-week_1942-06-13_667",
+"date": "1942-06-13"
+},
+{
+"id": "sim_business-week_1942-06-20_668",
+"date": "1942-06-20"
+},
+{
+"id": "sim_business-week_1942-06-27_669",
+"date": "1942-06-27"
+},
+{
+"id": "sim_business-week_1942-07-04_670",
+"date": "1942-07-04"
+},
+{
+"id": "sim_business-week_1942-07-11_671",
+"date": "1942-07-11"
+},
+{
+"id": "sim_business-week_1942-07-18_672",
+"date": "1942-07-18"
+},
+{
+"id": "sim_business-week_1942-07-25_673",
+"date": "1942-07-25"
+},
+{
+"id": "sim_business-week_1942-08-01_674",
+"date": "1942-08-01"
+},
+{
+"id": "sim_business-week_1942-08-08_675",
+"date": "1942-08-08"
+},
+{
+"id": "sim_business-week_1942-08-15_676",
+"date": "1942-08-15"
+},
+{
+"id": "sim_business-week_1942-08-22_677",
+"date": "1942-08-22"
+},
+{
+"id": "sim_business-week_1942-08-29_678",
+"date": "1942-08-29"
+},
+{
+"id": "sim_business-week_1942-09-05_679",
+"date": "1942-09-05"
+},
+{
+"id": "sim_business-week_1942-09-12_680",
+"date": "1942-09-12"
+},
+{
+"id": "sim_business-week_1942-09-19_681",
+"date": "1942-09-19"
+},
+{
+"id": "sim_business-week_1942-09-26_682",
+"date": "1942-09-26"
+},
+{
+"id": "sim_business-week_1942-10-03_683",
+"date": "1942-10-03"
+},
+{
+"id": "sim_business-week_1942-10-10_684",
+"date": "1942-10-10"
+},
+{
+"id": "sim_business-week_1942-10-17_685",
+"date": "1942-10-17"
+},
+{
+"id": "sim_business-week_1942-10-24_686",
+"date": "1942-10-24"
+},
+{
+"id": "sim_business-week_1942-10-31_687",
+"date": "1942-10-31"
+},
+{
+"id": "sim_business-week_1942-11-07_688",
+"date": "1942-11-07"
+},
+{
+"id": "sim_business-week_1942-11-14_689",
+"date": "1942-11-14"
+},
+{
+"id": "sim_business-week_1942-11-21_690",
+"date": "1942-11-21"
+},
+{
+"id": "sim_business-week_1942-11-28_691",
+"date": "1942-11-28"
+},
+{
+"id": "sim_business-week_1942-12-05_692",
+"date": "1942-12-05"
+},
+{
+"id": "sim_business-week_1942-12-12_693",
+"date": "1942-12-12"
+},
+{
+"id": "sim_business-week_1942-12-19_694",
+"date": "1942-12-19"
+},
+{
+"id": "sim_business-week_1942-12-26_695",
+"date": "1942-12-26"
+},
+{
+"id": "sim_business-week_1943-01-02_696",
+"date": "1943-01-02"
+},
+{
+"id": "sim_business-week_1943-01-09_697",
+"date": "1943-01-09"
+},
+{
+"id": "sim_business-week_1943-01-16_698",
+"date": "1943-01-16"
+},
+{
+"id": "sim_business-week_1943-01-23_699",
+"date": "1943-01-23"
+},
+{
+"id": "sim_business-week_1943-01-30_700",
+"date": "1943-01-30"
+},
+{
+"id": "sim_business-week_1943-02-06_701",
+"date": "1943-02-06"
+},
+{
+"id": "sim_business-week_1943-02-13_702",
+"date": "1943-02-13"
+},
+{
+"id": "sim_business-week_1943-02-20_703",
+"date": "1943-02-20"
+},
+{
+"id": "sim_business-week_1943-02-27_704",
+"date": "1943-02-27"
+},
+{
+"id": "sim_business-week_1943-03-06_705",
+"date": "1943-03-06"
+},
+{
+"id": "sim_business-week_1943-03-13_706",
+"date": "1943-03-13"
+},
+{
+"id": "sim_business-week_1943-03-20_707",
+"date": "1943-03-20"
+},
+{
+"id": "sim_business-week_1943-03-27_708",
+"date": "1943-03-27"
+},
+{
+"id": "sim_business-week_1943-04-03_709",
+"date": "1943-04-03"
+},
+{
+"id": "sim_business-week_1943-04-10_710",
+"date": "1943-04-10"
+},
+{
+"id": "sim_business-week_1943-04-17_711",
+"date": "1943-04-17"
+},
+{
+"id": "sim_business-week_1943-04-24_712",
+"date": "1943-04-24"
+},
+{
+"id": "sim_business-week_1943-05-01_713",
+"date": "1943-05-01"
+},
+{
+"id": "sim_business-week_1943-05-08_714",
+"date": "1943-05-08"
+},
+{
+"id": "sim_business-week_1943-05-15_715",
+"date": "1943-05-15"
+},
+{
+"id": "sim_business-week_1943-05-22_716",
+"date": "1943-05-22"
+},
+{
+"id": "sim_business-week_1943-05-29_717",
+"date": "1943-05-29"
+},
+{
+"id": "sim_business-week_1943-06-05_718",
+"date": "1943-06-05"
+},
+{
+"id": "sim_business-week_1943-06-12_719",
+"date": "1943-06-12"
+},
+{
+"id": "sim_business-week_1943-06-19_720",
+"date": "1943-06-19"
+},
+{
+"id": "sim_business-week_1943-06-26_721",
+"date": "1943-06-26"
+},
+{
+"id": "sim_business-week_1943-07-03_722",
+"date": "1943-07-03"
+},
+{
+"id": "sim_business-week_1943-07-10_723",
+"date": "1943-07-10"
+},
+{
+"id": "sim_business-week_1943-07-17_724",
+"date": "1943-07-17"
+},
+{
+"id": "sim_business-week_1943-07-24_725",
+"date": "1943-07-24"
+},
+{
+"id": "sim_business-week_1943-07-31_726",
+"date": "1943-07-31"
+},
+{
+"id": "sim_business-week_1943-08-07_727",
+"date": "1943-08-07"
+},
+{
+"id": "sim_business-week_1943-08-14_728",
+"date": "1943-08-14"
+},
+{
+"id": "sim_business-week_1943-08-21_729",
+"date": "1943-08-21"
+},
+{
+"id": "sim_business-week_1943-08-28_730",
+"date": "1943-08-28"
+},
+{
+"id": "sim_business-week_1943-09-04_731",
+"date": "1943-09-04"
+},
+{
+"id": "sim_business-week_1943-09-11_732",
+"date": "1943-09-11"
+},
+{
+"id": "sim_business-week_1943-09-18_733",
+"date": "1943-09-18"
+},
+{
+"id": "sim_business-week_1943-09-25_734",
+"date": "1943-09-25"
+},
+{
+"id": "sim_business-week_1943-10-02_735",
+"date": "1943-10-02"
+},
+{
+"id": "sim_business-week_1943-10-09_736",
+"date": "1943-10-09"
+},
+{
+"id": "sim_business-week_1943-10-16_737",
+"date": "1943-10-16"
+},
+{
+"id": "sim_business-week_1943-10-23_738",
+"date": "1943-10-23"
+},
+{
+"id": "sim_business-week_1943-10-30_739",
+"date": "1943-10-30"
+},
+{
+"id": "sim_business-week_1943-11-06_740",
+"date": "1943-11-06"
+},
+{
+"id": "sim_business-week_1943-11-13_741",
+"date": "1943-11-13"
+},
+{
+"id": "sim_business-week_1943-11-20_742",
+"date": "1943-11-20"
+},
+{
+"id": "sim_business-week_1943-11-27_743",
+"date": "1943-11-27"
+},
+{
+"id": "sim_business-week_1943-12-04_744",
+"date": "1943-12-04"
+},
+{
+"id": "sim_business-week_1943-12-11_745",
+"date": "1943-12-11"
+},
+{
+"id": "sim_business-week_1943-12-18_746",
+"date": "1943-12-18"
+},
+{
+"id": "sim_business-week_1943-12-25_747",
+"date": "1943-12-25"
+},
+{
+"id": "sim_business-week_1944-01-01_748",
+"date": "1944-01-01"
+},
+{
+"id": "sim_business-week_1944-01-08_749",
+"date": "1944-01-08"
+},
+{
+"id": "sim_business-week_1944-01-15_750",
+"date": "1944-01-15"
+},
+{
+"id": "sim_business-week_1944-01-22_751",
+"date": "1944-01-22"
+},
+{
+"id": "sim_business-week_1944-01-29_752",
+"date": "1944-01-29"
+},
+{
+"id": "sim_business-week_1944-02-05_753",
+"date": "1944-02-05"
+},
+{
+"id": "sim_business-week_1944-02-12_754",
+"date": "1944-02-12"
+},
+{
+"id": "sim_business-week_1944-02-19_755",
+"date": "1944-02-19"
+},
+{
+"id": "sim_business-week_1944-02-26_756",
+"date": "1944-02-26"
+},
+{
+"id": "sim_business-week_1944-03-04_757",
+"date": "1944-03-04"
+},
+{
+"id": "sim_business-week_1944-03-11_758",
+"date": "1944-03-11"
+},
+{
+"id": "sim_business-week_1944-03-18_759",
+"date": "1944-03-18"
+},
+{
+"id": "sim_business-week_1944-03-25_760",
+"date": "1944-03-25"
+},
+{
+"id": "sim_business-week_1944-04-01_761",
+"date": "1944-04-01"
+},
+{
+"id": "sim_business-week_1944-04-08_762",
+"date": "1944-04-08"
+},
+{
+"id": "sim_business-week_1944-04-15_763",
+"date": "1944-04-15"
+},
+{
+"id": "sim_business-week_1944-04-22_764",
+"date": "1944-04-22"
+},
+{
+"id": "sim_business-week_1944-04-29_765",
+"date": "1944-04-29"
+},
+{
+"id": "sim_business-week_1944-05-06_766",
+"date": "1944-05-06"
+},
+{
+"id": "sim_business-week_1944-05-13_767",
+"date": "1944-05-13"
+},
+{
+"id": "sim_business-week_1944-05-20_768",
+"date": "1944-05-20"
+},
+{
+"id": "sim_business-week_1944-05-27_769",
+"date": "1944-05-27"
+},
+{
+"id": "sim_business-week_1944-06-03_770",
+"date": "1944-06-03"
+},
+{
+"id": "sim_business-week_1944-06-10_771",
+"date": "1944-06-10"
+},
+{
+"id": "sim_business-week_1944-06-17_772",
+"date": "1944-06-17"
+},
+{
+"id": "sim_business-week_1944-06-24_773",
+"date": "1944-06-24"
+},
+{
+"id": "sim_business-week_1944-07-01_774",
+"date": "1944-07-01"
+},
+{
+"id": "sim_business-week_1944-07-08_775",
+"date": "1944-07-08"
+},
+{
+"id": "sim_business-week_1944-07-15_776",
+"date": "1944-07-15"
+},
+{
+"id": "sim_business-week_1944-07-22_777",
+"date": "1944-07-22"
+},
+{
+"id": "sim_business-week_1944-07-29_778",
+"date": "1944-07-29"
+},
+{
+"id": "sim_business-week_1944-08-05_779",
+"date": "1944-08-05"
+},
+{
+"id": "sim_business-week_1944-08-12_780",
+"date": "1944-08-12"
+},
+{
+"id": "sim_business-week_1944-08-19_781",
+"date": "1944-08-19"
+},
+{
+"id": "sim_business-week_1944-08-26_782",
+"date": "1944-08-26"
+},
+{
+"id": "sim_business-week_1944-09-02_783",
+"date": "1944-09-02"
+},
+{
+"id": "sim_business-week_1944-09-09_784",
+"date": "1944-09-09"
+},
+{
+"id": "sim_business-week_1944-09-16_785",
+"date": "1944-09-16"
+},
+{
+"id": "sim_business-week_1944-09-23_786",
+"date": "1944-09-23"
+},
+{
+"id": "sim_business-week_1944-09-30_787",
+"date": "1944-09-30"
+},
+{
+"id": "sim_business-week_1944-10-07_788",
+"date": "1944-10-07"
+},
+{
+"id": "sim_business-week_1944-10-14_789",
+"date": "1944-10-14"
+},
+{
+"id": "sim_business-week_1944-10-21_790",
+"date": "1944-10-21"
+},
+{
+"id": "sim_business-week_1944-10-28_791",
+"date": "1944-10-28"
+},
+{
+"id": "sim_business-week_1944-11-04_792",
+"date": "1944-11-04"
+},
+{
+"id": "sim_business-week_1944-11-11_793",
+"date": "1944-11-11"
+},
+{
+"id": "sim_business-week_1944-11-18_794",
+"date": "1944-11-18"
+},
+{
+"id": "sim_business-week_1944-11-25_795",
+"date": "1944-11-25"
+},
+{
+"id": "sim_business-week_1944-12-02_796",
+"date": "1944-12-02"
+},
+{
+"id": "sim_business-week_1944-12-09_797",
+"date": "1944-12-09"
+},
+{
+"id": "sim_business-week_1944-12-16_798",
+"date": "1944-12-16"
+},
+{
+"id": "sim_business-week_1944-12-23_799",
+"date": "1944-12-23"
+},
+{
+"id": "sim_business-week_1944-12-30_800",
+"date": "1944-12-30"
+},
+{
+"id": "sim_business-week_1945-01-06_801",
+"date": "1945-01-06"
+},
+{
+"id": "sim_business-week_1945-01-13_802",
+"date": "1945-01-13"
+},
+{
+"id": "sim_business-week_1945-01-20_803",
+"date": "1945-01-20"
+},
+{
+"id": "sim_business-week_1945-01-27_804",
+"date": "1945-01-27"
+},
+{
+"id": "sim_business-week_1945-02-03_805",
+"date": "1945-02-03"
+},
+{
+"id": "sim_business-week_1945-02-10_806",
+"date": "1945-02-10"
+},
+{
+"id": "sim_business-week_1945-02-17_807",
+"date": "1945-02-17"
+},
+{
+"id": "sim_business-week_1945-02-24_808",
+"date": "1945-02-24"
+},
+{
+"id": "sim_business-week_1945-03-03_809",
+"date": "1945-03-03"
+},
+{
+"id": "sim_business-week_1945-03-10_810",
+"date": "1945-03-10"
+},
+{
+"id": "sim_business-week_1945-03-17_811",
+"date": "1945-03-17"
+},
+{
+"id": "sim_business-week_1945-03-24_812",
+"date": "1945-03-24"
+},
+{
+"id": "sim_business-week_1945-03-31_813",
+"date": "1945-03-31"
+},
+{
+"id": "sim_business-week_1945-04-07_814",
+"date": "1945-04-07"
+},
+{
+"id": "sim_business-week_1945-04-14_815",
+"date": "1945-04-14"
+},
+{
+"id": "sim_business-week_1945-04-21_816",
+"date": "1945-04-21"
+},
+{
+"id": "sim_business-week_1945-04-28_817",
+"date": "1945-04-28"
+},
+{
+"id": "sim_business-week_1945-05-05_818",
+"date": "1945-05-05"
+},
+{
+"id": "sim_business-week_1945-05-12_819",
+"date": "1945-05-12"
+},
+{
+"id": "sim_business-week_1945-05-19_820",
+"date": "1945-05-19"
+},
+{
+"id": "sim_business-week_1945-05-26_821",
+"date": "1945-05-26"
+},
+{
+"id": "sim_business-week_1945-06-02_822",
+"date": "1945-06-02"
+},
+{
+"id": "sim_business-week_1945-06-09_823",
+"date": "1945-06-09"
+},
+{
+"id": "sim_business-week_1945-06-16_824",
+"date": "1945-06-16"
+},
+{
+"id": "sim_business-week_1945-06-23_825",
+"date": "1945-06-23"
+},
+{
+"id": "sim_business-week_1945-06-30_826",
+"date": "1945-06-30"
+},
+{
+"id": "sim_business-week_1945-07-07_827",
+"date": "1945-07-07"
+},
+{
+"id": "sim_business-week_1945-07-14_828",
+"date": "1945-07-14"
+},
+{
+"id": "sim_business-week_1945-07-21_829",
+"date": "1945-07-21"
+},
+{
+"id": "sim_business-week_1945-07-28_830",
+"date": "1945-07-28"
+},
+{
+"id": "sim_business-week_1945-08-04_831",
+"date": "1945-08-04"
+},
+{
+"id": "sim_business-week_1945-08-11_832",
+"date": "1945-08-11"
+},
+{
+"id": "sim_business-week_1945-08-18_833",
+"date": "1945-08-18"
+},
+{
+"id": "sim_business-week_1945-08-25_834",
+"date": "1945-08-25"
+},
+{
+"id": "sim_business-week_1945-09-01_835",
+"date": "1945-09-01"
+},
+{
+"id": "sim_business-week_1945-09-08_836",
+"date": "1945-09-08"
+},
+{
+"id": "sim_business-week_1945-09-15_837",
+"date": "1945-09-15"
+},
+{
+"id": "sim_business-week_1945-09-22_838",
+"date": "1945-09-22"
+},
+{
+"id": "sim_business-week_1945-09-29_839",
+"date": "1945-09-29"
+},
+{
+"id": "sim_business-week_1945-10-06_840",
+"date": "1945-10-06"
+},
+{
+"id": "sim_business-week_1945-10-13_841",
+"date": "1945-10-13"
+},
+{
+"id": "sim_business-week_1945-10-20_842",
+"date": "1945-10-20"
+},
+{
+"id": "sim_business-week_1945-10-27_843",
+"date": "1945-10-27"
+},
+{
+"id": "sim_business-week_1945-11-03_844",
+"date": "1945-11-03"
+},
+{
+"id": "sim_business-week_1945-11-10_845",
+"date": "1945-11-10"
+},
+{
+"id": "sim_business-week_1945-11-17_846",
+"date": "1945-11-17"
+},
+{
+"id": "sim_business-week_1945-11-24_847",
+"date": "1945-11-24"
+},
+{
+"id": "sim_business-week_1945-12-01_848",
+"date": "1945-12-01"
+},
+{
+"id": "sim_business-week_1945-12-08_849",
+"date": "1945-12-08"
+},
+{
+"id": "sim_business-week_1945-12-15_850",
+"date": "1945-12-15"
+},
+{
+"id": "sim_business-week_1945-12-22_851",
+"date": "1945-12-22"
+},
+{
+"id": "sim_business-week_1945-12-29_852",
+"date": "1945-12-29"
+},
+{
+"id": "sim_business-week_1946-01-05_853",
+"date": "1946-01-05"
+},
+{
+"id": "sim_business-week_1946-01-12_854",
+"date": "1946-01-12"
+},
+{
+"id": "sim_business-week_1946-01-19_855",
+"date": "1946-01-19"
+},
+{
+"id": "sim_business-week_1946-01-26_856",
+"date": "1946-01-26"
+},
+{
+"id": "sim_business-week_1946-02-02_857",
+"date": "1946-02-02"
+},
+{
+"id": "sim_business-week_1946-02-09_858",
+"date": "1946-02-09"
+},
+{
+"id": "sim_business-week_1946-02-16_859",
+"date": "1946-02-16"
+},
+{
+"id": "sim_business-week_1946-02-23_860",
+"date": "1946-02-23"
+},
+{
+"id": "sim_business-week_1946-03-02_861",
+"date": "1946-03-02"
+},
+{
+"id": "sim_business-week_1946-03-09_862",
+"date": "1946-03-09"
+},
+{
+"id": "sim_business-week_1946-03-16_863",
+"date": "1946-03-16"
+},
+{
+"id": "sim_business-week_1946-03-23_864",
+"date": "1946-03-23"
+},
+{
+"id": "sim_business-week_1946-03-30_865",
+"date": "1946-03-30"
+},
+{
+"id": "sim_business-week_1946-04-06_866",
+"date": "1946-04-06"
+},
+{
+"id": "sim_business-week_1946-04-13_867",
+"date": "1946-04-13"
+},
+{
+"id": "sim_business-week_1946-04-20_868",
+"date": "1946-04-20"
+},
+{
+"id": "sim_business-week_1946-04-27_869",
+"date": "1946-04-27"
+},
+{
+"id": "sim_business-week_1946-05-04_870",
+"date": "1946-05-04"
+},
+{
+"id": "sim_business-week_1946-05-11_871",
+"date": "1946-05-11"
+},
+{
+"id": "sim_business-week_1946-05-18_872",
+"date": "1946-05-18"
+},
+{
+"id": "sim_business-week_1946-05-25_873",
+"date": "1946-05-25"
+},
+{
+"id": "sim_business-week_1946-06-01_874",
+"date": "1946-06-01"
+},
+{
+"id": "sim_business-week_1946-06-08_875",
+"date": "1946-06-08"
+},
+{
+"id": "sim_business-week_1946-06-15_876",
+"date": "1946-06-15"
+},
+{
+"id": "sim_business-week_1946-06-22_877",
+"date": "1946-06-22"
+},
+{
+"id": "sim_business-week_1946-06-29_878",
+"date": "1946-06-29"
+},
+{
+"id": "sim_business-week_1946-07-06_879",
+"date": "1946-07-06"
+},
+{
+"id": "sim_business-week_1946-07-13_880",
+"date": "1946-07-13"
+},
+{
+"id": "sim_business-week_1946-07-20_881",
+"date": "1946-07-20"
+},
+{
+"id": "sim_business-week_1946-07-27_882",
+"date": "1946-07-27"
+},
+{
+"id": "sim_business-week_1946-08-03_883",
+"date": "1946-08-03"
+},
+{
+"id": "sim_business-week_1946-08-10_884",
+"date": "1946-08-10"
+},
+{
+"id": "sim_business-week_1946-08-17_885",
+"date": "1946-08-17"
+},
+{
+"id": "sim_business-week_1946-08-24_886",
+"date": "1946-08-24"
+},
+{
+"id": "sim_business-week_1946-08-31_887",
+"date": "1946-08-31"
+},
+{
+"id": "sim_business-week_1946-09-07_888",
+"date": "1946-09-07"
+},
+{
+"id": "sim_business-week_1946-09-14_889",
+"date": "1946-09-14"
+},
+{
+"id": "sim_business-week_1946-09-21_890",
+"date": "1946-09-21"
+},
+{
+"id": "sim_business-week_1946-09-28_891",
+"date": "1946-09-28"
+},
+{
+"id": "sim_business-week_1946-10-05_892",
+"date": "1946-10-05"
+},
+{
+"id": "sim_business-week_1946-10-12_893",
+"date": "1946-10-12"
+},
+{
+"id": "sim_business-week_1946-10-19_894",
+"date": "1946-10-19"
+},
+{
+"id": "sim_business-week_1946-10-26_895",
+"date": "1946-10-26"
+},
+{
+"id": "sim_business-week_1946-11-02_896",
+"date": "1946-11-02"
+},
+{
+"id": "sim_business-week_1946-11-09_897",
+"date": "1946-11-09"
+},
+{
+"id": "sim_business-week_1946-11-16_898",
+"date": "1946-11-16"
+},
+{
+"id": "sim_business-week_1946-11-23_899",
+"date": "1946-11-23"
+},
+{
+"id": "sim_business-week_1946-11-30_900",
+"date": "1946-11-30"
+},
+{
+"id": "sim_business-week_1946-12-07_901",
+"date": "1946-12-07"
+},
+{
+"id": "sim_business-week_1946-12-14_902",
+"date": "1946-12-14"
+},
+{
+"id": "sim_business-week_1946-12-21_903",
+"date": "1946-12-21"
+},
+{
+"id": "sim_business-week_1946-12-28_904",
+"date": "1946-12-28"
+},
+{
+"id": "sim_business-week_1947-01-04_905",
+"date": "1947-01-04"
+},
+{
+"id": "sim_business-week_1947-01-11_906",
+"date": "1947-01-11"
+},
+{
+"id": "sim_business-week_1947-01-18_907",
+"date": "1947-01-18"
+},
+{
+"id": "sim_business-week_1947-01-25_908",
+"date": "1947-01-25"
+},
+{
+"id": "sim_business-week_1947-02-01_909",
+"date": "1947-02-01"
+},
+{
+"id": "sim_business-week_1947-02-08_910",
+"date": "1947-02-08"
+},
+{
+"id": "sim_business-week_1947-02-15_911",
+"date": "1947-02-15"
+},
+{
+"id": "sim_business-week_1947-02-22_912",
+"date": "1947-02-22"
+},
+{
+"id": "sim_business-week_1947-03-01_913",
+"date": "1947-03-01"
+},
+{
+"id": "sim_business-week_1947-03-08_914",
+"date": "1947-03-08"
+},
+{
+"id": "sim_business-week_1947-03-15_915",
+"date": "1947-03-15"
+},
+{
+"id": "sim_business-week_1947-03-22_916",
+"date": "1947-03-22"
+},
+{
+"id": "sim_business-week_1947-03-29_917",
+"date": "1947-03-29"
+},
+{
+"id": "sim_business-week_1947-04-05_918",
+"date": "1947-04-05"
+},
+{
+"id": "sim_business-week_1947-04-12_919",
+"date": "1947-04-12"
+},
+{
+"id": "sim_business-week_1947-04-19_920",
+"date": "1947-04-19"
+},
+{
+"id": "sim_business-week_1947-04-26_921",
+"date": "1947-04-26"
+},
+{
+"id": "sim_business-week_1947-05-03_922",
+"date": "1947-05-03"
+},
+{
+"id": "sim_business-week_1947-05-10_923",
+"date": "1947-05-10"
+},
+{
+"id": "sim_business-week_1947-05-17_924",
+"date": "1947-05-17"
+},
+{
+"id": "sim_business-week_1947-05-24_925",
+"date": "1947-05-24"
+},
+{
+"id": "sim_business-week_1947-05-31_926",
+"date": "1947-05-31"
+},
+{
+"id": "sim_business-week_1947-06-07_927",
+"date": "1947-06-07"
+},
+{
+"id": "sim_business-week_1947-06-14_928",
+"date": "1947-06-14"
+},
+{
+"id": "sim_business-week_1947-06-21_929",
+"date": "1947-06-21"
+},
+{
+"id": "sim_business-week_1947-06-28_930",
+"date": "1947-06-28"
+},
+{
+"id": "sim_business-week_1947-07-05_931",
+"date": "1947-07-05"
+},
+{
+"id": "sim_business-week_1947-07-12_932",
+"date": "1947-07-12"
+},
+{
+"id": "sim_business-week_1947-07-19_933",
+"date": "1947-07-19"
+},
+{
+"id": "sim_business-week_1947-07-26_934",
+"date": "1947-07-26"
+},
+{
+"id": "sim_business-week_1947-08-02_935",
+"date": "1947-08-02"
+},
+{
+"id": "sim_business-week_1947-08-09_936",
+"date": "1947-08-09"
+},
+{
+"id": "sim_business-week_1947-08-16_937",
+"date": "1947-08-16"
+},
+{
+"id": "sim_business-week_1947-08-23_938",
+"date": "1947-08-23"
+},
+{
+"id": "sim_business-week_1947-08-30_939",
+"date": "1947-08-30"
+},
+{
+"id": "sim_business-week_1947-09-06_940",
+"date": "1947-09-06"
+},
+{
+"id": "sim_business-week_1947-09-13_941",
+"date": "1947-09-13"
+},
+{
+"id": "sim_business-week_1947-09-20_942",
+"date": "1947-09-20"
+},
+{
+"id": "sim_business-week_1947-09-27_943",
+"date": "1947-09-27"
+},
+{
+"id": "sim_business-week_1947-10-04_944",
+"date": "1947-10-04"
+},
+{
+"id": "sim_business-week_1947-10-11_945",
+"date": "1947-10-11"
+},
+{
+"id": "sim_business-week_1947-10-18_946",
+"date": "1947-10-18"
+},
+{
+"id": "sim_business-week_1947-10-25_947",
+"date": "1947-10-25"
+},
+{
+"id": "sim_business-week_1947-11-01_948",
+"date": "1947-11-01"
+},
+{
+"id": "sim_business-week_1947-11-08_949",
+"date": "1947-11-08"
+},
+{
+"id": "sim_business-week_1947-11-15_950",
+"date": "1947-11-15"
+},
+{
+"id": "sim_business-week_1947-11-22_951",
+"date": "1947-11-22"
+},
+{
+"id": "sim_business-week_1947-11-29_952",
+"date": "1947-11-29"
+},
+{
+"id": "sim_business-week_1947-12-06_953",
+"date": "1947-12-06"
+},
+{
+"id": "sim_business-week_1947-12-13_954",
+"date": "1947-12-13"
+},
+{
+"id": "sim_business-week_1947-12-20_955",
+"date": "1947-12-20"
+},
+{
+"id": "sim_business-week_1947-12-27_956",
+"date": "1947-12-27"
+},
+{
+"id": "sim_business-week_1948-01-03_957",
+"date": "1948-01-03"
+},
+{
+"id": "sim_business-week_1948-01-10_958",
+"date": "1948-01-10"
+},
+{
+"id": "sim_business-week_1948-01-17_959",
+"date": "1948-01-17"
+},
+{
+"id": "sim_business-week_1948-01-24_960",
+"date": "1948-01-24"
+},
+{
+"id": "sim_business-week_1948-01-31_961",
+"date": "1948-01-31"
+},
+{
+"id": "sim_business-week_1948-02-07_962",
+"date": "1948-02-07"
+},
+{
+"id": "sim_business-week_1948-02-14_963",
+"date": "1948-02-14"
+},
+{
+"id": "sim_business-week_1948-02-21_964",
+"date": "1948-02-21"
+},
+{
+"id": "sim_business-week_1948-02-28_965",
+"date": "1948-02-28"
+},
+{
+"id": "sim_business-week_1948-03-06_966",
+"date": "1948-03-06"
+},
+{
+"id": "sim_business-week_1948-03-13_967",
+"date": "1948-03-13"
+},
+{
+"id": "sim_business-week_1948-03-20_968",
+"date": "1948-03-20"
+},
+{
+"id": "sim_business-week_1948-03-27_969",
+"date": "1948-03-27"
+},
+{
+"id": "sim_business-week_1948-04-03_970",
+"date": "1948-04-03"
+},
+{
+"id": "sim_business-week_1948-04-10_971",
+"date": "1948-04-10"
+},
+{
+"id": "sim_business-week_1948-04-17_972",
+"date": "1948-04-17"
+},
+{
+"id": "sim_business-week_1948-04-24_973",
+"date": "1948-04-24"
+},
+{
+"id": "sim_business-week_1948-05-01_974",
+"date": "1948-05-01"
+},
+{
+"id": "sim_business-week_1948-05-08_975",
+"date": "1948-05-08"
+},
+{
+"id": "sim_business-week_1948-05-15_976",
+"date": "1948-05-15"
+},
+{
+"id": "sim_business-week_1948-05-22_977",
+"date": "1948-05-22"
+},
+{
+"id": "sim_business-week_1948-05-29_978",
+"date": "1948-05-29"
+},
+{
+"id": "sim_business-week_1948-06-05_979",
+"date": "1948-06-05"
+},
+{
+"id": "sim_business-week_1948-06-12_980",
+"date": "1948-06-12"
+},
+{
+"id": "sim_business-week_1948-06-19_981",
+"date": "1948-06-19"
+},
+{
+"id": "sim_business-week_1948-06-26_982",
+"date": "1948-06-26"
+},
+{
+"id": "sim_business-week_1948-07-03_983",
+"date": "1948-07-03"
+},
+{
+"id": "sim_business-week_1948-07-10_984",
+"date": "1948-07-10"
+},
+{
+"id": "sim_business-week_1948-07-17_985",
+"date": "1948-07-17"
+},
+{
+"id": "sim_business-week_1948-07-24_986",
+"date": "1948-07-24"
+},
+{
+"id": "sim_business-week_1948-07-31_987",
+"date": "1948-07-31"
+},
+{
+"id": "sim_business-week_1948-08-07_988",
+"date": "1948-08-07"
+},
+{
+"id": "sim_business-week_1948-08-14_989",
+"date": "1948-08-14"
+},
+{
+"id": "sim_business-week_1948-08-21_990",
+"date": "1948-08-21"
+},
+{
+"id": "sim_business-week_1948-08-28_991",
+"date": "1948-08-28"
+},
+{
+"id": "sim_business-week_1948-09-04_992",
+"date": "1948-09-04"
+},
+{
+"id": "sim_business-week_1948-09-11_993",
+"date": "1948-09-11"
+},
+{
+"id": "sim_business-week_1948-09-18_994",
+"date": "1948-09-18"
+},
+{
+"id": "sim_business-week_1948-09-25_995",
+"date": "1948-09-25"
+},
+{
+"id": "sim_business-week_1948-10-02_996",
+"date": "1948-10-02"
+},
+{
+"id": "sim_business-week_1948-10-09_997",
+"date": "1948-10-09"
+},
+{
+"id": "sim_business-week_1948-10-16_998",
+"date": "1948-10-16"
+},
+{
+"id": "sim_business-week_1948-10-23_999",
+"date": "1948-10-23"
+},
+{
+"id": "sim_business-week_1948-10-30_1000",
+"date": "1948-10-30"
+},
+{
+"id": "sim_business-week_1948-11-06_1001",
+"date": "1948-11-06"
+},
+{
+"id": "sim_business-week_1948-11-13_1002",
+"date": "1948-11-13"
+},
+{
+"id": "sim_business-week_1948-11-20_1003",
+"date": "1948-11-20"
+},
+{
+"id": "sim_business-week_1948-11-27_1004",
+"date": "1948-11-27"
+},
+{
+"id": "sim_business-week_1948-12-04_1005",
+"date": "1948-12-04"
+},
+{
+"id": "sim_business-week_1948-12-11_1006",
+"date": "1948-12-11"
+},
+{
+"id": "sim_business-week_1948-12-18_1007",
+"date": "1948-12-18"
+},
+{
+"id": "sim_business-week_1948-12-25_1008",
+"date": "1948-12-25"
+},
+{
+"id": "sim_business-week_1949-01-01_1009",
+"date": "1949-01-01"
+},
+{
+"id": "sim_business-week_1949-01-08_1010",
+"date": "1949-01-08"
+},
+{
+"id": "sim_business-week_1949-01-15_1011",
+"date": "1949-01-15"
+},
+{
+"id": "sim_business-week_1949-01-22_1012",
+"date": "1949-01-22"
+},
+{
+"id": "sim_business-week_1949-01-29_1013",
+"date": "1949-01-29"
+},
+{
+"id": "sim_business-week_1949-02-05_1014",
+"date": "1949-02-05"
+},
+{
+"id": "sim_business-week_1949-02-12_1015",
+"date": "1949-02-12"
+},
+{
+"id": "sim_business-week_1949-02-19_1016",
+"date": "1949-02-19"
+},
+{
+"id": "sim_business-week_1949-02-26_1017",
+"date": "1949-02-26"
+},
+{
+"id": "sim_business-week_1949-03-05_1018",
+"date": "1949-03-05"
+},
+{
+"id": "sim_business-week_1949-03-12_1019",
+"date": "1949-03-12"
+},
+{
+"id": "sim_business-week_1949-03-19_1020",
+"date": "1949-03-19"
+},
+{
+"id": "sim_business-week_1949-03-26_1021",
+"date": "1949-03-26"
+},
+{
+"id": "sim_business-week_1949-04-02_1022",
+"date": "1949-04-02"
+},
+{
+"id": "sim_business-week_1949-04-09_1023",
+"date": "1949-04-09"
+},
+{
+"id": "sim_business-week_1949-04-16_1024",
+"date": "1949-04-16"
+},
+{
+"id": "sim_business-week_1949-04-23_1025",
+"date": "1949-04-23"
+},
+{
+"id": "sim_business-week_1949-04-30_1026",
+"date": "1949-04-30"
+},
+{
+"id": "sim_business-week_1949-05-07_1027",
+"date": "1949-05-07"
+},
+{
+"id": "sim_business-week_1949-05-14_1028",
+"date": "1949-05-14"
+},
+{
+"id": "sim_business-week_1949-05-21_1029",
+"date": "1949-05-21"
+},
+{
+"id": "sim_business-week_1949-05-28_1030",
+"date": "1949-05-28"
+},
+{
+"id": "sim_business-week_1949-06-04_1031",
+"date": "1949-06-04"
+},
+{
+"id": "sim_business-week_1949-06-11_1032",
+"date": "1949-06-11"
+},
+{
+"id": "sim_business-week_1949-06-18_1033",
+"date": "1949-06-18"
+},
+{
+"id": "sim_business-week_1949-06-25_1034",
+"date": "1949-06-25"
+},
+{
+"id": "sim_business-week_1949-07-02_1035",
+"date": "1949-07-02"
+},
+{
+"id": "sim_business-week_1949-07-09_1036",
+"date": "1949-07-09"
+},
+{
+"id": "sim_business-week_1949-07-16_1037",
+"date": "1949-07-16"
+},
+{
+"id": "sim_business-week_1949-07-23_1038",
+"date": "1949-07-23"
+},
+{
+"id": "sim_business-week_1949-07-30_1039",
+"date": "1949-07-30"
+},
+{
+"id": "sim_business-week_1949-08-06_1040",
+"date": "1949-08-06"
+},
+{
+"id": "sim_business-week_1949-08-13_1041",
+"date": "1949-08-13"
+},
+{
+"id": "sim_business-week_1949-08-20_1042",
+"date": "1949-08-20"
+},
+{
+"id": "sim_business-week_1949-08-27_1043",
+"date": "1949-08-27"
+},
+{
+"id": "sim_business-week_1949-09-03_1044",
+"date": "1949-09-03"
+},
+{
+"id": "sim_business-week_1949-09-10_1045",
+"date": "1949-09-10"
+},
+{
+"id": "sim_business-week_1949-09-17_1046",
+"date": "1949-09-17"
+},
+{
+"id": "sim_business-week_1949-09-24_1047",
+"date": "1949-09-24"
+},
+{
+"id": "sim_business-week_1949-10-01_1048",
+"date": "1949-10-01"
+},
+{
+"id": "sim_business-week_1949-10-08_1049",
+"date": "1949-10-08"
+},
+{
+"id": "sim_business-week_1949-10-15_1050",
+"date": "1949-10-15"
+},
+{
+"id": "sim_business-week_1949-10-22_1051",
+"date": "1949-10-22"
+},
+{
+"id": "sim_business-week_1949-10-29_1052",
+"date": "1949-10-29"
+},
+{
+"id": "sim_business-week_1949-11-05_1053",
+"date": "1949-11-05"
+},
+{
+"id": "sim_business-week_1949-11-12_1054",
+"date": "1949-11-12"
+},
+{
+"id": "sim_business-week_1949-11-19_1055",
+"date": "1949-11-19"
+},
+{
+"id": "sim_business-week_1949-11-26_1056",
+"date": "1949-11-26"
+},
+{
+"id": "sim_business-week_1949-12-03_1057",
+"date": "1949-12-03"
+},
+{
+"id": "sim_business-week_1949-12-10_1058",
+"date": "1949-12-10"
+},
+{
+"id": "sim_business-week_1949-12-17_1059",
+"date": "1949-12-17"
+},
+{
+"id": "sim_business-week_1949-12-24_1060",
+"date": "1949-12-24"
+},
+{
+"id": "sim_business-week_1949-12-31_1061",
+"date": "1949-12-31"
+},
+{
+"id": "sim_business-week_1950-01-07_1062",
+"date": "1950-01-07"
+},
+{
+"id": "sim_business-week_1950-01-14_1063",
+"date": "1950-01-14"
+},
+{
+"id": "sim_business-week_1950-01-21_1064",
+"date": "1950-01-21"
+},
+{
+"id": "sim_business-week_1950-01-28_1065",
+"date": "1950-01-28"
+},
+{
+"id": "sim_business-week_1950-02-04_1066",
+"date": "1950-02-04"
+},
+{
+"id": "sim_business-week_1950-02-11_1067",
+"date": "1950-02-11"
+},
+{
+"id": "sim_business-week_1950-02-18_1068",
+"date": "1950-02-18"
+},
+{
+"id": "sim_business-week_1950-02-25_1069",
+"date": "1950-02-25"
+},
+{
+"id": "sim_business-week_1950-03-04_1070",
+"date": "1950-03-04"
+},
+{
+"id": "sim_business-week_1950-03-11_1071",
+"date": "1950-03-11"
+},
+{
+"id": "sim_business-week_1950-03-18_1072",
+"date": "1950-03-18"
+},
+{
+"id": "sim_business-week_1950-03-25_1073",
+"date": "1950-03-25"
+},
+{
+"id": "sim_business-week_1950-04-01_1074",
+"date": "1950-04-01"
+},
+{
+"id": "sim_business-week_1950-04-08_1075",
+"date": "1950-04-08"
+},
+{
+"id": "sim_business-week_1950-04-15_1076",
+"date": "1950-04-15"
+},
+{
+"id": "sim_business-week_1950-04-22_1077",
+"date": "1950-04-22"
+},
+{
+"id": "sim_business-week_1950-04-29_1078",
+"date": "1950-04-29"
+},
+{
+"id": "sim_business-week_1950-05-06_1079",
+"date": "1950-05-06"
+},
+{
+"id": "sim_business-week_1950-05-13_1080",
+"date": "1950-05-13"
+},
+{
+"id": "sim_business-week_1950-05-20_1081",
+"date": "1950-05-20"
+},
+{
+"id": "sim_business-week_1950-05-27_1082",
+"date": "1950-05-27"
+},
+{
+"id": "sim_business-week_1950-06-03_1083",
+"date": "1950-06-03"
+},
+{
+"id": "sim_business-week_1950-06-10_1084",
+"date": "1950-06-10"
+},
+{
+"id": "sim_business-week_1950-06-17_1085",
+"date": "1950-06-17"
+},
+{
+"id": "sim_business-week_1950-06-24_1086",
+"date": "1950-06-24"
+},
+{
+"id": "sim_business-week_1950-07-01_1087",
+"date": "1950-07-01"
+},
+{
+"id": "sim_business-week_1950-07-08_1088",
+"date": "1950-07-08"
+},
+{
+"id": "sim_business-week_1950-07-15_1089",
+"date": "1950-07-15"
+},
+{
+"id": "sim_business-week_1950-07-22_1090",
+"date": "1950-07-22"
+},
+{
+"id": "sim_business-week_1950-07-29_1091",
+"date": "1950-07-29"
+},
+{
+"id": "sim_business-week_1950-08-05_1092",
+"date": "1950-08-05"
+},
+{
+"id": "sim_business-week_1950-08-12_1093",
+"date": "1950-08-12"
+},
+{
+"id": "sim_business-week_1950-08-19_1094",
+"date": "1950-08-19"
+},
+{
+"id": "sim_business-week_1950-08-26_1095",
+"date": "1950-08-26"
+},
+{
+"id": "sim_business-week_1950-09-02_1096",
+"date": "1950-09-02"
+},
+{
+"id": "sim_business-week_1950-09-09_1097",
+"date": "1950-09-09"
+},
+{
+"id": "sim_business-week_1950-09-16_1098",
+"date": "1950-09-16"
+},
+{
+"id": "sim_business-week_1950-09-23_1099",
+"date": "1950-09-23"
+},
+{
+"id": "sim_business-week_1950-09-30_1100",
+"date": "1950-09-30"
+},
+{
+"id": "sim_business-week_1950-10-07_1101",
+"date": "1950-10-07"
+},
+{
+"id": "sim_business-week_1950-10-14_1102",
+"date": "1950-10-14"
+},
+{
+"id": "sim_business-week_1950-10-21_1103",
+"date": "1950-10-21"
+},
+{
+"id": "sim_business-week_1950-10-28_1104",
+"date": "1950-10-28"
+},
+{
+"id": "sim_business-week_1950-11-04_1105",
+"date": "1950-11-04"
+},
+{
+"id": "sim_business-week_1950-11-11_1106",
+"date": "1950-11-11"
+},
+{
+"id": "sim_business-week_1950-11-18_1107",
+"date": "1950-11-18"
+},
+{
+"id": "sim_business-week_1950-11-25_1108",
+"date": "1950-11-25"
+},
+{
+"id": "sim_business-week_1950-12-02_1109",
+"date": "1950-12-02"
+},
+{
+"id": "sim_business-week_1950-12-09_1110",
+"date": "1950-12-09"
+},
+{
+"id": "sim_business-week_1950-12-16_1111",
+"date": "1950-12-16"
+},
+{
+"id": "sim_business-week_1950-12-23_1112",
+"date": "1950-12-23"
+},
+{
+"id": "sim_business-week_1950-12-30_1113",
+"date": "1950-12-30"
+},
+{
+"id": "sim_business-week_1951-01-06_1114",
+"date": "1951-01-06"
+},
+{
+"id": "sim_business-week_1951-01-13_1115",
+"date": "1951-01-13"
+},
+{
+"id": "sim_business-week_1951-01-20_1116",
+"date": "1951-01-20"
+},
+{
+"id": "sim_business-week_1951-01-27_1117",
+"date": "1951-01-27"
+},
+{
+"id": "sim_business-week_1951-02-03_1118",
+"date": "1951-02-03"
+},
+{
+"id": "sim_business-week_1951-02-10_1119",
+"date": "1951-02-10"
+},
+{
+"id": "sim_business-week_1951-02-17_1120",
+"date": "1951-02-17"
+},
+{
+"id": "sim_business-week_1951-02-24_1121",
+"date": "1951-02-24"
+},
+{
+"id": "sim_business-week_1951-03-03_1122",
+"date": "1951-03-03"
+},
+{
+"id": "sim_business-week_1951-03-10_1123",
+"date": "1951-03-10"
+},
+{
+"id": "sim_business-week_1951-03-17_1124",
+"date": "1951-03-17"
+},
+{
+"id": "sim_business-week_1951-03-24_1125",
+"date": "1951-03-24"
+},
+{
+"id": "sim_business-week_1951-03-31_1126",
+"date": "1951-03-31"
+},
+{
+"id": "sim_business-week_1951-04-07_1127",
+"date": "1951-04-07"
+},
+{
+"id": "sim_business-week_1951-04-14_1128",
+"date": "1951-04-14"
+},
+{
+"id": "sim_business-week_1951-04-21_1129",
+"date": "1951-04-21"
+},
+{
+"id": "sim_business-week_1951-04-28_1130",
+"date": "1951-04-28"
+},
+{
+"id": "sim_business-week_1951-05-05_1131",
+"date": "1951-05-05"
+},
+{
+"id": "sim_business-week_1951-05-12_1132",
+"date": "1951-05-12"
+},
+{
+"id": "sim_business-week_1951-05-19_1133",
+"date": "1951-05-19"
+},
+{
+"id": "sim_business-week_1951-05-26_1134",
+"date": "1951-05-26"
+},
+{
+"id": "sim_business-week_1951-06-02_1135",
+"date": "1951-06-02"
+},
+{
+"id": "sim_business-week_1951-06-09_1136",
+"date": "1951-06-09"
+},
+{
+"id": "sim_business-week_1951-06-16_1137",
+"date": "1951-06-16"
+},
+{
+"id": "sim_business-week_1951-06-23_1138",
+"date": "1951-06-23"
+},
+{
+"id": "sim_business-week_1951-06-30_1139",
+"date": "1951-06-30"
+},
+{
+"id": "sim_business-week_1951-07-07_1140",
+"date": "1951-07-07"
+},
+{
+"id": "sim_business-week_1951-07-14_1141",
+"date": "1951-07-14"
+},
+{
+"id": "sim_business-week_1951-07-21_1142",
+"date": "1951-07-21"
+},
+{
+"id": "sim_business-week_1951-07-28_1143",
+"date": "1951-07-28"
+},
+{
+"id": "sim_business-week_1951-08-04_1144",
+"date": "1951-08-04"
+},
+{
+"id": "sim_business-week_1951-08-11_1145",
+"date": "1951-08-11"
+},
+{
+"id": "sim_business-week_1951-08-18_1146",
+"date": "1951-08-18"
+},
+{
+"id": "sim_business-week_1951-08-25_1147",
+"date": "1951-08-25"
+},
+{
+"id": "sim_business-week_1951-09-01_1148",
+"date": "1951-09-01"
+},
+{
+"id": "sim_business-week_1951-09-08_1149",
+"date": "1951-09-08"
+},
+{
+"id": "sim_business-week_1951-09-15_1150",
+"date": "1951-09-15"
+},
+{
+"id": "sim_business-week_1951-09-22_1151",
+"date": "1951-09-22"
+},
+{
+"id": "sim_business-week_1951-09-29_1152",
+"date": "1951-09-29"
+},
+{
+"id": "sim_business-week_1951-10-06_1153",
+"date": "1951-10-06"
+},
+{
+"id": "sim_business-week_1951-10-13_1154",
+"date": "1951-10-13"
+},
+{
+"id": "sim_business-week_1951-10-20_1155",
+"date": "1951-10-20"
+},
+{
+"id": "sim_business-week_1951-10-27_1156",
+"date": "1951-10-27"
+},
+{
+"id": "sim_business-week_1951-11-03_1157",
+"date": "1951-11-03"
+},
+{
+"id": "sim_business-week_1951-11-10_1158",
+"date": "1951-11-10"
+},
+{
+"id": "sim_business-week_1951-11-17_1159",
+"date": "1951-11-17"
+},
+{
+"id": "sim_business-week_1951-11-24_1160",
+"date": "1951-11-24"
+},
+{
+"id": "sim_business-week_1951-12-01_1161",
+"date": "1951-12-01"
+},
+{
+"id": "sim_business-week_1951-12-08_1162",
+"date": "1951-12-08"
+},
+{
+"id": "sim_business-week_1951-12-15_1163",
+"date": "1951-12-15"
+},
+{
+"id": "sim_business-week_1951-12-22_1164",
+"date": "1951-12-22"
+},
+{
+"id": "sim_business-week_1951-12-29_1165",
+"date": "1951-12-29"
+},
+{
+"id": "sim_business-week_1952-01-05_1166",
+"date": "1952-01-05"
+},
+{
+"id": "sim_business-week_1952-01-12_1167",
+"date": "1952-01-12"
+},
+{
+"id": "sim_business-week_1952-01-19_1168",
+"date": "1952-01-19"
+},
+{
+"id": "sim_business-week_1952-01-26_1169",
+"date": "1952-01-26"
+},
+{
+"id": "sim_business-week_1952-02-02_1170",
+"date": "1952-02-02"
+},
+{
+"id": "sim_business-week_1952-02-09_1171",
+"date": "1952-02-09"
+},
+{
+"id": "sim_business-week_1952-02-16_1172",
+"date": "1952-02-16"
+},
+{
+"id": "sim_business-week_1952-02-23_1173",
+"date": "1952-02-23"
+},
+{
+"id": "sim_business-week_1952-03-01_1174",
+"date": "1952-03-01"
+},
+{
+"id": "sim_business-week_1952-03-08_1175",
+"date": "1952-03-08"
+},
+{
+"id": "sim_business-week_1952-03-15_1176",
+"date": "1952-03-15"
+},
+{
+"id": "sim_business-week_1952-03-22_1177",
+"date": "1952-03-22"
+},
+{
+"id": "sim_business-week_1952-03-29_1178",
+"date": "1952-03-29"
+},
+{
+"id": "sim_business-week_1952-04-05_1179",
+"date": "1952-04-05"
+},
+{
+"id": "sim_business-week_1952-04-12_1180",
+"date": "1952-04-12"
+},
+{
+"id": "sim_business-week_1952-04-19_1181",
+"date": "1952-04-19"
+},
+{
+"id": "sim_business-week_1952-04-26_1182",
+"date": "1952-04-26"
+},
+{
+"id": "sim_business-week_1952-05-03_1183",
+"date": "1952-05-03"
+},
+{
+"id": "sim_business-week_1952-05-10_1184",
+"date": "1952-05-10"
+},
+{
+"id": "sim_business-week_1952-05-17_1185",
+"date": "1952-05-17"
+},
+{
+"id": "sim_business-week_1952-05-24_1186",
+"date": "1952-05-24"
+},
+{
+"id": "sim_business-week_1952-05-31_1187",
+"date": "1952-05-31"
+},
+{
+"id": "sim_business-week_1952-06-07_1188",
+"date": "1952-06-07"
+},
+{
+"id": "sim_business-week_1952-06-14_1189",
+"date": "1952-06-14"
+},
+{
+"id": "sim_business-week_1952-06-21_1190",
+"date": "1952-06-21"
+},
+{
+"id": "sim_business-week_1952-06-28_1191",
+"date": "1952-06-28"
+},
+{
+"id": "sim_business-week_1952-07-05_1192",
+"date": "1952-07-05"
+},
+{
+"id": "sim_business-week_1952-07-12_1193",
+"date": "1952-07-12"
+},
+{
+"id": "sim_business-week_1952-07-19_1194",
+"date": "1952-07-19"
+},
+{
+"id": "sim_business-week_1952-07-26_1195",
+"date": "1952-07-26"
+},
+{
+"id": "sim_business-week_1952-08-02_1196",
+"date": "1952-08-02"
+},
+{
+"id": "sim_business-week_1952-08-09_1197",
+"date": "1952-08-09"
+},
+{
+"id": "sim_business-week_1952-08-16_1198",
+"date": "1952-08-16"
+},
+{
+"id": "sim_business-week_1952-08-23_1199",
+"date": "1952-08-23"
+},
+{
+"id": "sim_business-week_1952-08-30_1200",
+"date": "1952-08-30"
+},
+{
+"id": "sim_business-week_1952-09-06_1201",
+"date": "1952-09-06"
+},
+{
+"id": "sim_business-week_1952-09-13_1202",
+"date": "1952-09-13"
+},
+{
+"id": "sim_business-week_1952-09-20_1203",
+"date": "1952-09-20"
+},
+{
+"id": "sim_business-week_1952-09-27_1204",
+"date": "1952-09-27"
+},
+{
+"id": "sim_business-week_1952-10-04_1205",
+"date": "1952-10-04"
+},
+{
+"id": "sim_business-week_1952-10-11_1206",
+"date": "1952-10-11"
+},
+{
+"id": "sim_business-week_1952-10-18_1207",
+"date": "1952-10-18"
+},
+{
+"id": "sim_business-week_1952-10-25_1208",
+"date": "1952-10-25"
+},
+{
+"id": "sim_business-week_1952-11-01_1209",
+"date": "1952-11-01"
+},
+{
+"id": "sim_business-week_1952-11-08_1210",
+"date": "1952-11-08"
+},
+{
+"id": "sim_business-week_1952-11-15_1211",
+"date": "1952-11-15"
+},
+{
+"id": "sim_business-week_1952-11-22_1212",
+"date": "1952-11-22"
+},
+{
+"id": "sim_business-week_1952-11-29_1213",
+"date": "1952-11-29"
+},
+{
+"id": "sim_business-week_1952-12-06_1214",
+"date": "1952-12-06"
+},
+{
+"id": "sim_business-week_1952-12-13_1215",
+"date": "1952-12-13"
+},
+{
+"id": "sim_business-week_1952-12-20_1216",
+"date": "1952-12-20"
+},
+{
+"id": "sim_business-week_1952-12-27_1217",
+"date": "1952-12-27"
+},
+{
+"id": "sim_business-week_1953-01-03_1218",
+"date": "1953-01-03"
+},
+{
+"id": "sim_business-week_1953-01-10_1219",
+"date": "1953-01-10"
+},
+{
+"id": "sim_business-week_1953-01-17_1220",
+"date": "1953-01-17"
+},
+{
+"id": "sim_business-week_1953-01-24_1221",
+"date": "1953-01-24"
+},
+{
+"id": "sim_business-week_1953-01-31_1222",
+"date": "1953-01-31"
+},
+{
+"id": "sim_business-week_1953-02-07_1223",
+"date": "1953-02-07"
+},
+{
+"id": "sim_business-week_1953-02-14_1224",
+"date": "1953-02-14"
+},
+{
+"id": "sim_business-week_1953-02-21_1225",
+"date": "1953-02-21"
+},
+{
+"id": "sim_business-week_1953-02-28_1226",
+"date": "1953-02-28"
+},
+{
+"id": "sim_business-week_1953-03-07_1227",
+"date": "1953-03-07"
+},
+{
+"id": "sim_business-week_1953-03-14_1228",
+"date": "1953-03-14"
+},
+{
+"id": "sim_business-week_1953-03-21_1229",
+"date": "1953-03-21"
+},
+{
+"id": "sim_business-week_1953-03-28_1230",
+"date": "1953-03-28"
+},
+{
+"id": "sim_business-week_1953-04-04_1231",
+"date": "1953-04-04"
+},
+{
+"id": "sim_business-week_1953-04-11_1232",
+"date": "1953-04-11"
+},
+{
+"id": "sim_business-week_1953-04-18_1233",
+"date": "1953-04-18"
+},
+{
+"id": "sim_business-week_1953-04-25_1234",
+"date": "1953-04-25"
+},
+{
+"id": "sim_business-week_1953-05-02_1235",
+"date": "1953-05-02"
+},
+{
+"id": "sim_business-week_1953-05-09_1236",
+"date": "1953-05-09"
+},
+{
+"id": "sim_business-week_1953-05-16_1237",
+"date": "1953-05-16"
+},
+{
+"id": "sim_business-week_1953-05-23_1238",
+"date": "1953-05-23"
+},
+{
+"id": "sim_business-week_1953-05-30_1239",
+"date": "1953-05-30"
+},
+{
+"id": "sim_business-week_1953-06-06_1240",
+"date": "1953-06-06"
+},
+{
+"id": "sim_business-week_1953-06-13_1241",
+"date": "1953-06-13"
+},
+{
+"id": "sim_business-week_1953-06-20_1242",
+"date": "1953-06-20"
+},
+{
+"id": "sim_business-week_1953-06-27_1243",
+"date": "1953-06-27"
+},
+{
+"id": "sim_business-week_1953-07-04_1244",
+"date": "1953-07-04"
+},
+{
+"id": "sim_business-week_1953-07-11_1245",
+"date": "1953-07-11"
+},
+{
+"id": "sim_business-week_1953-07-18_1246",
+"date": "1953-07-18"
+},
+{
+"id": "sim_business-week_1953-07-25_1247",
+"date": "1953-07-25"
+},
+{
+"id": "sim_business-week_1953-08-01_1248",
+"date": "1953-08-01"
+},
+{
+"id": "sim_business-week_1953-08-08_1249",
+"date": "1953-08-08"
+},
+{
+"id": "sim_business-week_1953-08-15_1250",
+"date": "1953-08-15"
+},
+{
+"id": "sim_business-week_1953-08-22_1251",
+"date": "1953-08-22"
+},
+{
+"id": "sim_business-week_1953-08-29_1252",
+"date": "1953-08-29"
+},
+{
+"id": "sim_business-week_1953-09-05_1253",
+"date": "1953-09-05"
+},
+{
+"id": "sim_business-week_1953-09-12_1254",
+"date": "1953-09-12"
+},
+{
+"id": "sim_business-week_1953-09-19_1255",
+"date": "1953-09-19"
+},
+{
+"id": "sim_business-week_1953-09-26_1256",
+"date": "1953-09-26"
+},
+{
+"id": "sim_business-week_1953-10-03_1257",
+"date": "1953-10-03"
+},
+{
+"id": "sim_business-week_1953-10-10_1258",
+"date": "1953-10-10"
+},
+{
+"id": "sim_business-week_1953-10-17_1259",
+"date": "1953-10-17"
+},
+{
+"id": "sim_business-week_1953-10-24_1260",
+"date": "1953-10-24"
+},
+{
+"id": "sim_business-week_1953-10-31_1261",
+"date": "1953-10-31"
+},
+{
+"id": "sim_business-week_1953-11-07_1262",
+"date": "1953-11-07"
+},
+{
+"id": "sim_business-week_1953-11-14_1263",
+"date": "1953-11-14"
+},
+{
+"id": "sim_business-week_1953-11-21_1264",
+"date": "1953-11-21"
+},
+{
+"id": "sim_business-week_1953-11-28_1265",
+"date": "1953-11-28"
+},
+{
+"id": "sim_business-week_1953-12-05_1266",
+"date": "1953-12-05"
+},
+{
+"id": "sim_business-week_1953-12-12_1267",
+"date": "1953-12-12"
+},
+{
+"id": "sim_business-week_1953-12-19_1268",
+"date": "1953-12-19"
+},
+{
+"id": "sim_business-week_1953-12-26_1269",
+"date": "1953-12-26"
+},
+{
+"id": "sim_business-week_1954-01-02_1270",
+"date": "1954-01-02"
+},
+{
+"id": "sim_business-week_1954-01-09_1271",
+"date": "1954-01-09"
+},
+{
+"id": "sim_business-week_1954-01-16_1272",
+"date": "1954-01-16"
+},
+{
+"id": "sim_business-week_1954-01-23_1273",
+"date": "1954-01-23"
+},
+{
+"id": "sim_business-week_1954-01-30_1274",
+"date": "1954-01-30"
+},
+{
+"id": "sim_business-week_1954-02-06_1275",
+"date": "1954-02-06"
+},
+{
+"id": "sim_business-week_1954-02-13_1276",
+"date": "1954-02-13"
+},
+{
+"id": "sim_business-week_1954-02-20_1277",
+"date": "1954-02-20"
+},
+{
+"id": "sim_business-week_1954-02-27_1278",
+"date": "1954-02-27"
+},
+{
+"id": "sim_business-week_1954-03-06_1279",
+"date": "1954-03-06"
+},
+{
+"id": "sim_business-week_1954-03-13_1280",
+"date": "1954-03-13"
+},
+{
+"id": "sim_business-week_1954-03-20_1281",
+"date": "1954-03-20"
+},
+{
+"id": "sim_business-week_1954-03-27_1282",
+"date": "1954-03-27"
+},
+{
+"id": "sim_business-week_1954-04-03_1283",
+"date": "1954-04-03"
+},
+{
+"id": "sim_business-week_1954-04-10_1284",
+"date": "1954-04-10"
+},
+{
+"id": "sim_business-week_1954-04-17_1285",
+"date": "1954-04-17"
+},
+{
+"id": "sim_business-week_1954-04-24_1286",
+"date": "1954-04-24"
+},
+{
+"id": "sim_business-week_1954-05-01_1287",
+"date": "1954-05-01"
+},
+{
+"id": "sim_business-week_1954-05-08_1288",
+"date": "1954-05-08"
+},
+{
+"id": "sim_business-week_1954-05-15_1289",
+"date": "1954-05-15"
+},
+{
+"id": "sim_business-week_1954-05-22_1290",
+"date": "1954-05-22"
+},
+{
+"id": "sim_business-week_1954-05-29_1291",
+"date": "1954-05-29"
+},
+{
+"id": "sim_business-week_1954-06-05_1292",
+"date": "1954-06-05"
+},
+{
+"id": "sim_business-week_1954-06-12_1293",
+"date": "1954-06-12"
+},
+{
+"id": "sim_business-week_1954-06-19_1294",
+"date": "1954-06-19"
+},
+{
+"id": "sim_business-week_1954-06-26_1295",
+"date": "1954-06-26"
+},
+{
+"id": "sim_business-week_1954-07-03_1296",
+"date": "1954-07-03"
+},
+{
+"id": "sim_business-week_1954-07-10_1297",
+"date": "1954-07-10"
+},
+{
+"id": "sim_business-week_1954-07-17_1298",
+"date": "1954-07-17"
+},
+{
+"id": "sim_business-week_1954-07-24_1299",
+"date": "1954-07-24"
+},
+{
+"id": "sim_business-week_1954-07-31_1300",
+"date": "1954-07-31"
+},
+{
+"id": "sim_business-week_1954-08-07_1301",
+"date": "1954-08-07"
+},
+{
+"id": "sim_business-week_1954-08-14_1302",
+"date": "1954-08-14"
+},
+{
+"id": "sim_business-week_1954-08-21_1303",
+"date": "1954-08-21"
+},
+{
+"id": "sim_business-week_1954-08-28_1304",
+"date": "1954-08-28"
+},
+{
+"id": "sim_business-week_1954-09-04_1305",
+"date": "1954-09-04"
+},
+{
+"id": "sim_business-week_1954-09-11_1306",
+"date": "1954-09-11"
+},
+{
+"id": "sim_business-week_1954-09-18_1307",
+"date": "1954-09-18"
+},
+{
+"id": "sim_business-week_1954-09-25_1308",
+"date": "1954-09-25"
+},
+{
+"id": "sim_business-week_1954-10-02_1309",
+"date": "1954-10-02"
+},
+{
+"id": "sim_business-week_1954-10-09_1310",
+"date": "1954-10-09"
+},
+{
+"id": "sim_business-week_1954-10-16_1311",
+"date": "1954-10-16"
+},
+{
+"id": "sim_business-week_1954-10-23_1312",
+"date": "1954-10-23"
+},
+{
+"id": "sim_business-week_1954-10-30_1313",
+"date": "1954-10-30"
+},
+{
+"id": "sim_business-week_1954-11-06_1314",
+"date": "1954-11-06"
+},
+{
+"id": "sim_business-week_1954-11-13_1315",
+"date": "1954-11-13"
+},
+{
+"id": "sim_business-week_1954-11-20_1316",
+"date": "1954-11-20"
+},
+{
+"id": "sim_business-week_1954-11-27_1317",
+"date": "1954-11-27"
+},
+{
+"id": "sim_business-week_1954-12-04_1318",
+"date": "1954-12-04"
+},
+{
+"id": "sim_business-week_1954-12-11_1319",
+"date": "1954-12-11"
+},
+{
+"id": "sim_business-week_1954-12-18_1320",
+"date": "1954-12-18"
+},
+{
+"id": "sim_business-week_1954-12-25_1321",
+"date": "1954-12-25"
+},
+{
+"id": "sim_business-week_1955-01-01_1322",
+"date": "1955-01-01"
+},
+{
+"id": "sim_business-week_1955-01-08_1323",
+"date": "1955-01-08"
+},
+{
+"id": "sim_business-week_1955-01-15_1324",
+"date": "1955-01-15"
+},
+{
+"id": "sim_business-week_1955-01-22_1325",
+"date": "1955-01-22"
+},
+{
+"id": "sim_business-week_1955-01-29_1326",
+"date": "1955-01-29"
+},
+{
+"id": "sim_business-week_1955-02-05_1327",
+"date": "1955-02-05"
+},
+{
+"id": "sim_business-week_1955-02-12_1328",
+"date": "1955-02-12"
+},
+{
+"id": "sim_business-week_1955-02-19_1329",
+"date": "1955-02-19"
+},
+{
+"id": "sim_business-week_1955-02-26_1330",
+"date": "1955-02-26"
+},
+{
+"id": "sim_business-week_1955-03-05_1331",
+"date": "1955-03-05"
+},
+{
+"id": "sim_business-week_1955-03-12_1332",
+"date": "1955-03-12"
+},
+{
+"id": "sim_business-week_1955-03-19_1333",
+"date": "1955-03-19"
+},
+{
+"id": "sim_business-week_1955-03-26_1334",
+"date": "1955-03-26"
+},
+{
+"id": "sim_business-week_1955-04-02_1335",
+"date": "1955-04-02"
+},
+{
+"id": "sim_business-week_1955-04-09_1336",
+"date": "1955-04-09"
+},
+{
+"id": "sim_business-week_1955-04-16_1337",
+"date": "1955-04-16"
+},
+{
+"id": "sim_business-week_1955-04-23_1338",
+"date": "1955-04-23"
+},
+{
+"id": "sim_business-week_1955-04-30_1339",
+"date": "1955-04-30"
+},
+{
+"id": "sim_business-week_1955-05-07_1340",
+"date": "1955-05-07"
+},
+{
+"id": "sim_business-week_1955-05-14_1341",
+"date": "1955-05-14"
+},
+{
+"id": "sim_business-week_1955-05-21_1342",
+"date": "1955-05-21"
+},
+{
+"id": "sim_business-week_1955-05-28_1343",
+"date": "1955-05-28"
+},
+{
+"id": "sim_business-week_1955-06-04_1344",
+"date": "1955-06-04"
+},
+{
+"id": "sim_business-week_1955-06-11_1345",
+"date": "1955-06-11"
+},
+{
+"id": "sim_business-week_1955-06-18_1346",
+"date": "1955-06-18"
+},
+{
+"id": "sim_business-week_1955-06-25_1347",
+"date": "1955-06-25"
+},
+{
+"id": "sim_business-week_1955-07-02_1348",
+"date": "1955-07-02"
+},
+{
+"id": "sim_business-week_1955-07-09_1349",
+"date": "1955-07-09"
+},
+{
+"id": "sim_business-week_1955-07-16_1350",
+"date": "1955-07-16"
+},
+{
+"id": "sim_business-week_1955-07-23_1351",
+"date": "1955-07-23"
+},
+{
+"id": "sim_business-week_1955-07-30_1352",
+"date": "1955-07-30"
+},
+{
+"id": "sim_business-week_1955-08-06_1353",
+"date": "1955-08-06"
+},
+{
+"id": "sim_business-week_1955-08-13_1354",
+"date": "1955-08-13"
+},
+{
+"id": "sim_business-week_1955-08-20_1355",
+"date": "1955-08-20"
+},
+{
+"id": "sim_business-week_1955-08-27_1356",
+"date": "1955-08-27"
+},
+{
+"id": "sim_business-week_1955-09-03_1357",
+"date": "1955-09-03"
+},
+{
+"id": "sim_business-week_1955-09-10_1358",
+"date": "1955-09-10"
+},
+{
+"id": "sim_business-week_1955-09-17_1359",
+"date": "1955-09-17"
+},
+{
+"id": "sim_business-week_1955-09-24_1360",
+"date": "1955-09-24"
+},
+{
+"id": "sim_business-week_1955-10-01_1361",
+"date": "1955-10-01"
+},
+{
+"id": "sim_business-week_1955-10-08_1362",
+"date": "1955-10-08"
+},
+{
+"id": "sim_business-week_1955-10-15_1363",
+"date": "1955-10-15"
+},
+{
+"id": "sim_business-week_1955-10-22_1364",
+"date": "1955-10-22"
+},
+{
+"id": "sim_business-week_1955-10-29_1365",
+"date": "1955-10-29"
+},
+{
+"id": "sim_business-week_1955-11-05_1366",
+"date": "1955-11-05"
+},
+{
+"id": "sim_business-week_1955-11-12_1367",
+"date": "1955-11-12"
+},
+{
+"id": "sim_business-week_1955-11-19_1368",
+"date": "1955-11-19"
+},
+{
+"id": "sim_business-week_1955-11-26_1369",
+"date": "1955-11-26"
+},
+{
+"id": "sim_business-week_1955-12-03_1370",
+"date": "1955-12-03"
+},
+{
+"id": "sim_business-week_1955-12-10_1371",
+"date": "1955-12-10"
+},
+{
+"id": "sim_business-week_1955-12-17_1372",
+"date": "1955-12-17"
+},
+{
+"id": "sim_business-week_1955-12-24_1373",
+"date": "1955-12-24"
+},
+{
+"id": "sim_business-week_1955-12-31_1374",
+"date": "1955-12-31"
+},
+{
+"id": "sim_business-week_1956-01-07_1375",
+"date": "1956-01-07"
+},
+{
+"id": "sim_business-week_1956-01-14_1376",
+"date": "1956-01-14"
+},
+{
+"id": "sim_business-week_1956-01-21_1377",
+"date": "1956-01-21"
+},
+{
+"id": "sim_business-week_1956-01-28_1378",
+"date": "1956-01-28"
+},
+{
+"id": "sim_business-week_1956-02-04_1379",
+"date": "1956-02-04"
+},
+{
+"id": "sim_business-week_1956-02-11_1380",
+"date": "1956-02-11"
+},
+{
+"id": "sim_business-week_1956-02-18_1381",
+"date": "1956-02-18"
+},
+{
+"id": "sim_business-week_1956-02-25_1382",
+"date": "1956-02-25"
+},
+{
+"id": "sim_business-week_1956-03-03_1383",
+"date": "1956-03-03"
+},
+{
+"id": "sim_business-week_1956-03-10_1384",
+"date": "1956-03-10"
+},
+{
+"id": "sim_business-week_1956-03-17_1385",
+"date": "1956-03-17"
+},
+{
+"id": "sim_business-week_1956-03-24_1386",
+"date": "1956-03-24"
+},
+{
+"id": "sim_business-week_1956-03-31_1387",
+"date": "1956-03-31"
+},
+{
+"id": "sim_business-week_1956-04-07_1388",
+"date": "1956-04-07"
+},
+{
+"id": "sim_business-week_1956-04-14_1389",
+"date": "1956-04-14"
+},
+{
+"id": "sim_business-week_1956-04-21_1390",
+"date": "1956-04-21"
+},
+{
+"id": "sim_business-week_1956-04-28_1391",
+"date": "1956-04-28"
+},
+{
+"id": "sim_business-week_1956-05-05_1392",
+"date": "1956-05-05"
+},
+{
+"id": "sim_business-week_1956-05-12_1393",
+"date": "1956-05-12"
+},
+{
+"id": "sim_business-week_1956-05-19_1394",
+"date": "1956-05-19"
+},
+{
+"id": "sim_business-week_1956-05-26_1395",
+"date": "1956-05-26"
+},
+{
+"id": "sim_business-week_1956-06-02_1396",
+"date": "1956-06-02"
+},
+{
+"id": "sim_business-week_1956-06-09_1397",
+"date": "1956-06-09"
+},
+{
+"id": "sim_business-week_1956-06-16_1398",
+"date": "1956-06-16"
+},
+{
+"id": "sim_business-week_1956-06-23_1399",
+"date": "1956-06-23"
+},
+{
+"id": "sim_business-week_1956-06-30_1400",
+"date": "1956-06-30"
+},
+{
+"id": "sim_business-week_1956-07-07_1401",
+"date": "1956-07-07"
+},
+{
+"id": "sim_business-week_1956-07-14_1402",
+"date": "1956-07-14"
+},
+{
+"id": "sim_business-week_1956-07-21_1403",
+"date": "1956-07-21"
+},
+{
+"id": "sim_business-week_1956-07-28_1404",
+"date": "1956-07-28"
+},
+{
+"id": "sim_business-week_1956-08-04_1405",
+"date": "1956-08-04"
+},
+{
+"id": "sim_business-week_1956-08-11_1406",
+"date": "1956-08-11"
+},
+{
+"id": "sim_business-week_1956-08-18_1407",
+"date": "1956-08-18"
+},
+{
+"id": "sim_business-week_1956-08-25_1408",
+"date": "1956-08-25"
+},
+{
+"id": "sim_business-week_1956-09-01_1409",
+"date": "1956-09-01"
+},
+{
+"id": "sim_business-week_1956-09-08_1410",
+"date": "1956-09-08"
+},
+{
+"id": "sim_business-week_1956-09-15_1411",
+"date": "1956-09-15"
+},
+{
+"id": "sim_business-week_1956-09-22_1412",
+"date": "1956-09-22"
+},
+{
+"id": "sim_business-week_1956-09-29_1413",
+"date": "1956-09-29"
+},
+{
+"id": "sim_business-week_1956-10-06_1414",
+"date": "1956-10-06"
+},
+{
+"id": "sim_business-week_1956-10-13_1415",
+"date": "1956-10-13"
+},
+{
+"id": "sim_business-week_1956-10-20_1416",
+"date": "1956-10-20"
+},
+{
+"id": "sim_business-week_1956-10-27_1417",
+"date": "1956-10-27"
+},
+{
+"id": "sim_business-week_1956-11-03_1418",
+"date": "1956-11-03"
+},
+{
+"id": "sim_business-week_1956-11-10_1419",
+"date": "1956-11-10"
+},
+{
+"id": "sim_business-week_1956-11-17_1420",
+"date": "1956-11-17"
+},
+{
+"id": "sim_business-week_1956-11-24_1421",
+"date": "1956-11-24"
+},
+{
+"id": "sim_business-week_1956-12-01_1422",
+"date": "1956-12-01"
+},
+{
+"id": "sim_business-week_1956-12-08_1423",
+"date": "1956-12-08"
+},
+{
+"id": "sim_business-week_1956-12-15_1424",
+"date": "1956-12-15"
+},
+{
+"id": "sim_business-week_1956-12-22_1425",
+"date": "1956-12-22"
+},
+{
+"id": "sim_business-week_1956-12-29_1426",
+"date": "1956-12-29"
+},
+{
+"id": "sim_business-week_1957-01-05_1427",
+"date": "1957-01-05"
+},
+{
+"id": "sim_business-week_1957-01-12_1428",
+"date": "1957-01-12"
+},
+{
+"id": "sim_business-week_1957-01-19_1429",
+"date": "1957-01-19"
+},
+{
+"id": "sim_business-week_1957-01-26_1430",
+"date": "1957-01-26"
+},
+{
+"id": "sim_business-week_1957-02-02_1431",
+"date": "1957-02-02"
+},
+{
+"id": "sim_business-week_1957-02-09_1432",
+"date": "1957-02-09"
+},
+{
+"id": "sim_business-week_1957-02-16_1433",
+"date": "1957-02-16"
+},
+{
+"id": "sim_business-week_1957-02-23_1434",
+"date": "1957-02-23"
+},
+{
+"id": "sim_business-week_1957-03-02_1435",
+"date": "1957-03-02"
+},
+{
+"id": "sim_business-week_1957-03-09_1436",
+"date": "1957-03-09"
+},
+{
+"id": "sim_business-week_1957-03-16_1437",
+"date": "1957-03-16"
+},
+{
+"id": "sim_business-week_1957-03-23_1438",
+"date": "1957-03-23"
+},
+{
+"id": "sim_business-week_1957-03-30_1439",
+"date": "1957-03-30"
+},
+{
+"id": "sim_business-week_1957-04-06_1440",
+"date": "1957-04-06"
+},
+{
+"id": "sim_business-week_1957-04-13_1441",
+"date": "1957-04-13"
+},
+{
+"id": "sim_business-week_1957-04-20_1442",
+"date": "1957-04-20"
+},
+{
+"id": "sim_business-week_1957-04-27_1443",
+"date": "1957-04-27"
+},
+{
+"id": "sim_business-week_1957-05-04_1444",
+"date": "1957-05-04"
+},
+{
+"id": "sim_business-week_1957-05-11_1445",
+"date": "1957-05-11"
+},
+{
+"id": "sim_business-week_1957-05-18_1446",
+"date": "1957-05-18"
+},
+{
+"id": "sim_business-week_1957-05-25_1447",
+"date": "1957-05-25"
+},
+{
+"id": "sim_business-week_1957-06-01_1448",
+"date": "1957-06-01"
+},
+{
+"id": "sim_business-week_1957-06-08_1449",
+"date": "1957-06-08"
+},
+{
+"id": "sim_business-week_1957-06-15_1450",
+"date": "1957-06-15"
+},
+{
+"id": "sim_business-week_1957-06-22_1451",
+"date": "1957-06-22"
+},
+{
+"id": "sim_business-week_1957-06-29_1452",
+"date": "1957-06-29"
+},
+{
+"id": "sim_business-week_1957-07-06_1453",
+"date": "1957-07-06"
+},
+{
+"id": "sim_business-week_1957-07-13_1454",
+"date": "1957-07-13"
+},
+{
+"id": "sim_business-week_1957-07-20_1455",
+"date": "1957-07-20"
+},
+{
+"id": "sim_business-week_1957-07-27_1456",
+"date": "1957-07-27"
+},
+{
+"id": "sim_business-week_1957-08-03_1457",
+"date": "1957-08-03"
+},
+{
+"id": "sim_business-week_1957-08-10_1458",
+"date": "1957-08-10"
+},
+{
+"id": "sim_business-week_1957-08-17_1459",
+"date": "1957-08-17"
+},
+{
+"id": "sim_business-week_1957-08-24_1460",
+"date": "1957-08-24"
+},
+{
+"id": "sim_business-week_1957-08-31_1461",
+"date": "1957-08-31"
+},
+{
+"id": "sim_business-week_1957-09-07_1462",
+"date": "1957-09-07"
+},
+{
+"id": "sim_business-week_1957-09-14_1463",
+"date": "1957-09-14"
+},
+{
+"id": "sim_business-week_1957-09-21_1464",
+"date": "1957-09-21"
+},
+{
+"id": "sim_business-week_1957-09-28_1465",
+"date": "1957-09-28"
+},
+{
+"id": "sim_business-week_1957-10-05_1466",
+"date": "1957-10-05"
+},
+{
+"id": "sim_business-week_1957-10-12_1467",
+"date": "1957-10-12"
+},
+{
+"id": "sim_business-week_1957-10-19_1468",
+"date": "1957-10-19"
+},
+{
+"id": "sim_business-week_1957-10-26_1469",
+"date": "1957-10-26"
+},
+{
+"id": "sim_business-week_1957-11-02_1470",
+"date": "1957-11-02"
+},
+{
+"id": "sim_business-week_1957-11-09_1471",
+"date": "1957-11-09"
+},
+{
+"id": "sim_business-week_1957-11-16_1472",
+"date": "1957-11-16"
+},
+{
+"id": "sim_business-week_1957-11-23_1473",
+"date": "1957-11-23"
+},
+{
+"id": "sim_business-week_1957-11-30_1474",
+"date": "1957-11-30"
+},
+{
+"id": "sim_business-week_1957-12-07_1475",
+"date": "1957-12-07"
+},
+{
+"id": "sim_business-week_1957-12-14_1476",
+"date": "1957-12-14"
+},
+{
+"id": "sim_business-week_1957-12-21_1477",
+"date": "1957-12-21"
+},
+{
+"id": "sim_business-week_1957-12-28_1478",
+"date": "1957-12-28"
+},
+{
+"id": "sim_business-week_1958-01-04_1479",
+"date": "1958-01-04"
+},
+{
+"id": "sim_business-week_1958-01-11_1480",
+"date": "1958-01-11"
+},
+{
+"id": "sim_business-week_1958-01-18_1481",
+"date": "1958-01-18"
+},
+{
+"id": "sim_business-week_1958-01-25_1482",
+"date": "1958-01-25"
+},
+{
+"id": "sim_business-week_1958-02-01_1483",
+"date": "1958-02-01"
+},
+{
+"id": "sim_business-week_1958-02-08_1484",
+"date": "1958-02-08"
+},
+{
+"id": "sim_business-week_1958-02-15_1485",
+"date": "1958-02-15"
+},
+{
+"id": "sim_business-week_1958-02-22_1486",
+"date": "1958-02-22"
+},
+{
+"id": "sim_business-week_1958-03-01_1487",
+"date": "1958-03-01"
+},
+{
+"id": "sim_business-week_1958-03-08_1488",
+"date": "1958-03-08"
+},
+{
+"id": "sim_business-week_1958-03-15_1489",
+"date": "1958-03-15"
+},
+{
+"id": "sim_business-week_1958-03-22_1490",
+"date": "1958-03-22"
+},
+{
+"id": "sim_business-week_1958-03-29_1491",
+"date": "1958-03-29"
+},
+{
+"id": "sim_business-week_1958-04-05_1492",
+"date": "1958-04-05"
+},
+{
+"id": "sim_business-week_1958-04-12_1493",
+"date": "1958-04-12"
+},
+{
+"id": "sim_business-week_1958-04-19_1494",
+"date": "1958-04-19"
+},
+{
+"id": "sim_business-week_1958-04-26_1495",
+"date": "1958-04-26"
+},
+{
+"id": "sim_business-week_1958-05-03_1496",
+"date": "1958-05-03"
+},
+{
+"id": "sim_business-week_1958-05-10_1497",
+"date": "1958-05-10"
+},
+{
+"id": "sim_business-week_1958-05-17_1498",
+"date": "1958-05-17"
+},
+{
+"id": "sim_business-week_1958-05-24_1499",
+"date": "1958-05-24"
+},
+{
+"id": "sim_business-week_1958-05-31_1500",
+"date": "1958-05-31"
+},
+{
+"id": "sim_business-week_1958-06-07_1501",
+"date": "1958-06-07"
+},
+{
+"id": "sim_business-week_1958-06-14_1502",
+"date": "1958-06-14"
+},
+{
+"id": "sim_business-week_1958-06-21_1503",
+"date": "1958-06-21"
+},
+{
+"id": "sim_business-week_1958-06-28_1504",
+"date": "1958-06-28"
+},
+{
+"id": "sim_business-week_1958-07-05_1505",
+"date": "1958-07-05"
+},
+{
+"id": "sim_business-week_1958-07-12_1506",
+"date": "1958-07-12"
+},
+{
+"id": "sim_business-week_1958-07-19_1507",
+"date": "1958-07-19"
+},
+{
+"id": "sim_business-week_1958-07-26_1508",
+"date": "1958-07-26"
+},
+{
+"id": "sim_business-week_1958-08-02_1509",
+"date": "1958-08-02"
+},
+{
+"id": "sim_business-week_1958-08-09_1510",
+"date": "1958-08-09"
+},
+{
+"id": "sim_business-week_1958-08-16_1511",
+"date": "1958-08-16"
+},
+{
+"id": "sim_business-week_1958-08-23_1512",
+"date": "1958-08-23"
+},
+{
+"id": "sim_business-week_1958-08-30_1513",
+"date": "1958-08-30"
+},
+{
+"id": "sim_business-week_1958-09-06_1514",
+"date": "1958-09-06"
+},
+{
+"id": "sim_business-week_1958-09-13_1515",
+"date": "1958-09-13"
+},
+{
+"id": "sim_business-week_1958-09-20_1516",
+"date": "1958-09-20"
+},
+{
+"id": "sim_business-week_1958-09-27_1517",
+"date": "1958-09-27"
+},
+{
+"id": "sim_business-week_1958-10-04_1518",
+"date": "1958-10-04"
+},
+{
+"id": "sim_business-week_1958-10-11_1519",
+"date": "1958-10-11"
+},
+{
+"id": "sim_business-week_1958-10-18_1520",
+"date": "1958-10-18"
+},
+{
+"id": "sim_business-week_1958-10-25_1521",
+"date": "1958-10-25"
+},
+{
+"id": "sim_business-week_1958-11-01_1522",
+"date": "1958-11-01"
+},
+{
+"id": "sim_business-week_1958-11-08_1523",
+"date": "1958-11-08"
+},
+{
+"id": "sim_business-week_1958-11-15_1524",
+"date": "1958-11-15"
+},
+{
+"id": "sim_business-week_1958-11-22_1525",
+"date": "1958-11-22"
+},
+{
+"id": "sim_business-week_1958-11-29_1526",
+"date": "1958-11-29"
+},
+{
+"id": "sim_business-week_1958-12-06_1527",
+"date": "1958-12-06"
+},
+{
+"id": "sim_business-week_1958-12-13_1528",
+"date": "1958-12-13"
+},
+{
+"id": "sim_business-week_1958-12-20_1529",
+"date": "1958-12-20"
+},
+{
+"id": "sim_business-week_1958-12-27_1530",
+"date": "1958-12-27"
+},
+{
+"id": "sim_business-week_1959-01-03_1531",
+"date": "1959-01-03"
+},
+{
+"id": "sim_business-week_1959-01-10_1532",
+"date": "1959-01-10"
+},
+{
+"id": "sim_business-week_1959-01-17_1533",
+"date": "1959-01-17"
+},
+{
+"id": "sim_business-week_1959-01-24_1534",
+"date": "1959-01-24"
+},
+{
+"id": "sim_business-week_1959-01-31_1535",
+"date": "1959-01-31"
+},
+{
+"id": "sim_business-week_1959-02-07_1536",
+"date": "1959-02-07"
+},
+{
+"id": "sim_business-week_1959-02-14_1537",
+"date": "1959-02-14"
+},
+{
+"id": "sim_business-week_1959-02-21_1538",
+"date": "1959-02-21"
+},
+{
+"id": "sim_business-week_1959-02-28_1539",
+"date": "1959-02-28"
+},
+{
+"id": "sim_business-week_1959-03-07_1540",
+"date": "1959-03-07"
+},
+{
+"id": "sim_business-week_1959-03-14_1541",
+"date": "1959-03-14"
+},
+{
+"id": "sim_business-week_1959-03-21_1542",
+"date": "1959-03-21"
+},
+{
+"id": "sim_business-week_1959-03-28_1543",
+"date": "1959-03-28"
+},
+{
+"id": "sim_business-week_1959-04-04_1544",
+"date": "1959-04-04"
+},
+{
+"id": "sim_business-week_1959-04-11_1545",
+"date": "1959-04-11"
+},
+{
+"id": "sim_business-week_1959-04-18_1546",
+"date": "1959-04-18"
+},
+{
+"id": "sim_business-week_1959-04-25_1547",
+"date": "1959-04-25"
+},
+{
+"id": "sim_business-week_1959-05-02_1548",
+"date": "1959-05-02"
+},
+{
+"id": "sim_business-week_1959-05-09_1549",
+"date": "1959-05-09"
+},
+{
+"id": "sim_business-week_1959-05-16_1550",
+"date": "1959-05-16"
+},
+{
+"id": "sim_business-week_1959-05-23_1551",
+"date": "1959-05-23"
+},
+{
+"id": "sim_business-week_1959-05-30_1552",
+"date": "1959-05-30"
+},
+{
+"id": "sim_business-week_1959-06-06_1553",
+"date": "1959-06-06"
+},
+{
+"id": "sim_business-week_1959-06-13_1554",
+"date": "1959-06-13"
+},
+{
+"id": "sim_business-week_1959-06-20_1555",
+"date": "1959-06-20"
+},
+{
+"id": "sim_business-week_1959-06-27_1556",
+"date": "1959-06-27"
+},
+{
+"id": "sim_business-week_1959-07-04_1557",
+"date": "1959-07-04"
+},
+{
+"id": "sim_business-week_1959-07-11_1558",
+"date": "1959-07-11"
+},
+{
+"id": "sim_business-week_1959-07-18_1559",
+"date": "1959-07-18"
+},
+{
+"id": "sim_business-week_1959-07-25_1560",
+"date": "1959-07-25"
+},
+{
+"id": "sim_business-week_1959-08-01_1561",
+"date": "1959-08-01"
+},
+{
+"id": "sim_business-week_1959-08-08_1562",
+"date": "1959-08-08"
+},
+{
+"id": "sim_business-week_1959-08-15_1563",
+"date": "1959-08-15"
+},
+{
+"id": "sim_business-week_1959-08-22_1564",
+"date": "1959-08-22"
+},
+{
+"id": "sim_business-week_1959-08-29_1565",
+"date": "1959-08-29"
+},
+{
+"id": "sim_business-week_1959-09-05_1566",
+"date": "1959-09-05"
+},
+{
+"id": "sim_business-week_1959-09-12_1567",
+"date": "1959-09-12"
+},
+{
+"id": "sim_business-week_1959-09-19_1568",
+"date": "1959-09-19"
+},
+{
+"id": "sim_business-week_1959-09-26_1569",
+"date": "1959-09-26"
+},
+{
+"id": "sim_business-week_1959-10-03_1570",
+"date": "1959-10-03"
+},
+{
+"id": "sim_business-week_1959-10-10_1571",
+"date": "1959-10-10"
+},
+{
+"id": "sim_business-week_1959-10-17_1572",
+"date": "1959-10-17"
+},
+{
+"id": "sim_business-week_1959-10-24_1573",
+"date": "1959-10-24"
+},
+{
+"id": "sim_business-week_1959-10-31_1574",
+"date": "1959-10-31"
+},
+{
+"id": "sim_business-week_1959-11-07_1575",
+"date": "1959-11-07"
+},
+{
+"id": "sim_business-week_1959-11-14_1576",
+"date": "1959-11-14"
+},
+{
+"id": "sim_business-week_1959-11-21_1577",
+"date": "1959-11-21"
+},
+{
+"id": "sim_business-week_1959-11-28_1578",
+"date": "1959-11-28"
+},
+{
+"id": "sim_business-week_1959-12-05_1579",
+"date": "1959-12-05"
+},
+{
+"id": "sim_business-week_1959-12-12_1580",
+"date": "1959-12-12"
+},
+{
+"id": "sim_business-week_1959-12-19_1581",
+"date": "1959-12-19"
+},
+{
+"id": "sim_business-week_1959-12-26_1582",
+"date": "1959-12-26"
+},
+{
+"id": "sim_business-week_1960-01-02_1583",
+"date": "1960-01-02"
+},
+{
+"id": "sim_business-week_1960-01-09_1584",
+"date": "1960-01-09"
+},
+{
+"id": "sim_business-week_1960-01-16_1585",
+"date": "1960-01-16"
+},
+{
+"id": "sim_business-week_1960-01-23_1586",
+"date": "1960-01-23"
+},
+{
+"id": "sim_business-week_1960-01-30_1587",
+"date": "1960-01-30"
+},
+{
+"id": "sim_business-week_1960-02-06_1588",
+"date": "1960-02-06"
+},
+{
+"id": "sim_business-week_1960-02-13_1589",
+"date": "1960-02-13"
+},
+{
+"id": "sim_business-week_1960-02-20_1590",
+"date": "1960-02-20"
+},
+{
+"id": "sim_business-week_1960-02-27_1591",
+"date": "1960-02-27"
+},
+{
+"id": "sim_business-week_1960-03-05_1592",
+"date": "1960-03-05"
+},
+{
+"id": "sim_business-week_1960-03-12_1593",
+"date": "1960-03-12"
+},
+{
+"id": "sim_business-week_1960-03-19_1594",
+"date": "1960-03-19"
+},
+{
+"id": "sim_business-week_1960-03-26_1595",
+"date": "1960-03-26"
+},
+{
+"id": "sim_business-week_1960-04-02_1596",
+"date": "1960-04-02"
+},
+{
+"id": "sim_business-week_1960-04-09_1597",
+"date": "1960-04-09"
+},
+{
+"id": "sim_business-week_1960-04-16_1598",
+"date": "1960-04-16"
+},
+{
+"id": "sim_business-week_1960-04-23_1599",
+"date": "1960-04-23"
+},
+{
+"id": "sim_business-week_1960-04-30_1600",
+"date": "1960-04-30"
+},
+{
+"id": "sim_business-week_1960-05-07_1601",
+"date": "1960-05-07"
+},
+{
+"id": "sim_business-week_1960-05-14_1602",
+"date": "1960-05-14"
+},
+{
+"id": "sim_business-week_1960-05-21_1603",
+"date": "1960-05-21"
+},
+{
+"id": "sim_business-week_1960-05-28_1604",
+"date": "1960-05-28"
+},
+{
+"id": "sim_business-week_1960-06-04_1605",
+"date": "1960-06-04"
+},
+{
+"id": "sim_business-week_1960-06-11_1606",
+"date": "1960-06-11"
+},
+{
+"id": "sim_business-week_1960-06-18_1607",
+"date": "1960-06-18"
+},
+{
+"id": "sim_business-week_1960-06-25_1608",
+"date": "1960-06-25"
+},
+{
+"id": "sim_business-week_1960-07-02_1609",
+"date": "1960-07-02"
+},
+{
+"id": "sim_business-week_1960-07-09_1610",
+"date": "1960-07-09"
+},
+{
+"id": "sim_business-week_1960-07-16_1611",
+"date": "1960-07-16"
+},
+{
+"id": "sim_business-week_1960-07-23_1612",
+"date": "1960-07-23"
+},
+{
+"id": "sim_business-week_1960-07-30_1613",
+"date": "1960-07-30"
+},
+{
+"id": "sim_business-week_1960-08-06_1614",
+"date": "1960-08-06"
+},
+{
+"id": "sim_business-week_1960-08-13_1615",
+"date": "1960-08-13"
+},
+{
+"id": "sim_business-week_1960-08-20_1616",
+"date": "1960-08-20"
+},
+{
+"id": "sim_business-week_1960-08-27_1617",
+"date": "1960-08-27"
+},
+{
+"id": "sim_business-week_1960-09-03_1618",
+"date": "1960-09-03"
+},
+{
+"id": "sim_business-week_1960-09-10_1619",
+"date": "1960-09-10"
+},
+{
+"id": "sim_business-week_1960-09-17_1620",
+"date": "1960-09-17"
+},
+{
+"id": "sim_business-week_1960-09-24_1621",
+"date": "1960-09-24"
+},
+{
+"id": "sim_business-week_1960-10-01_1622",
+"date": "1960-10-01"
+},
+{
+"id": "sim_business-week_1960-10-08_1623",
+"date": "1960-10-08"
+},
+{
+"id": "sim_business-week_1960-10-15_1624",
+"date": "1960-10-15"
+},
+{
+"id": "sim_business-week_1960-10-22_1625",
+"date": "1960-10-22"
+},
+{
+"id": "sim_business-week_1960-10-29_1626",
+"date": "1960-10-29"
+},
+{
+"id": "sim_business-week_1960-11-05_1627",
+"date": "1960-11-05"
+},
+{
+"id": "sim_business-week_1960-11-12_1628",
+"date": "1960-11-12"
+},
+{
+"id": "sim_business-week_1960-11-19_1629",
+"date": "1960-11-19"
+},
+{
+"id": "sim_business-week_1960-11-26_1630",
+"date": "1960-11-26"
+},
+{
+"id": "sim_business-week_1960-12-03_1631",
+"date": "1960-12-03"
+},
+{
+"id": "sim_business-week_1960-12-10_1632",
+"date": "1960-12-10"
+},
+{
+"id": "sim_business-week_1960-12-17_1633",
+"date": "1960-12-17"
+},
+{
+"id": "sim_business-week_1960-12-24_1634",
+"date": "1960-12-24"
+},
+{
+"id": "sim_business-week_1960-12-31_1635",
+"date": "1960-12-31"
+},
+{
+"id": "sim_business-week_1961-01-07_1636",
+"date": "1961-01-07"
+},
+{
+"id": "sim_business-week_1961-01-14_1637",
+"date": "1961-01-14"
+},
+{
+"id": "sim_business-week_1961-01-21_1638",
+"date": "1961-01-21"
+},
+{
+"id": "sim_business-week_1961-01-28_1639",
+"date": "1961-01-28"
+},
+{
+"id": "sim_business-week_1961-02-04_1640",
+"date": "1961-02-04"
+},
+{
+"id": "sim_business-week_1961-02-11_1641",
+"date": "1961-02-11"
+},
+{
+"id": "sim_business-week_1961-02-18_1642",
+"date": "1961-02-18"
+},
+{
+"id": "sim_business-week_1961-02-25_1643",
+"date": "1961-02-25"
+},
+{
+"id": "sim_business-week_1961-03-04_1644",
+"date": "1961-03-04"
+},
+{
+"id": "sim_business-week_1961-03-11_1645",
+"date": "1961-03-11"
+},
+{
+"id": "sim_business-week_1961-03-18_1646",
+"date": "1961-03-18"
+},
+{
+"id": "sim_business-week_1961-03-25_1647",
+"date": "1961-03-25"
+},
+{
+"id": "sim_business-week_1961-04-01_1648",
+"date": "1961-04-01"
+},
+{
+"id": "sim_business-week_1961-04-08_1649",
+"date": "1961-04-08"
+},
+{
+"id": "sim_business-week_1961-04-15_1650",
+"date": "1961-04-15"
+},
+{
+"id": "sim_business-week_1961-04-22_1651",
+"date": "1961-04-22"
+},
+{
+"id": "sim_business-week_1961-04-29_1652",
+"date": "1961-04-29"
+},
+{
+"id": "sim_business-week_1961-05-06_1653",
+"date": "1961-05-06"
+},
+{
+"id": "sim_business-week_1961-05-13_1654",
+"date": "1961-05-13"
+},
+{
+"id": "sim_business-week_1961-05-20_1655",
+"date": "1961-05-20"
+},
+{
+"id": "sim_business-week_1961-05-27_1656",
+"date": "1961-05-27"
+},
+{
+"id": "sim_business-week_1961-06-03_1657",
+"date": "1961-06-03"
+},
+{
+"id": "sim_business-week_1961-06-10_1658",
+"date": "1961-06-10"
+},
+{
+"id": "sim_business-week_1961-06-17_1659",
+"date": "1961-06-17"
+},
+{
+"id": "sim_business-week_1961-06-24_1660",
+"date": "1961-06-24"
+},
+{
+"id": "sim_business-week_1961-07-01_1661",
+"date": "1961-07-01"
+},
+{
+"id": "sim_business-week_1961-07-08_1662",
+"date": "1961-07-08"
+},
+{
+"id": "sim_business-week_1961-07-15_1663",
+"date": "1961-07-15"
+},
+{
+"id": "sim_business-week_1961-07-22_1664",
+"date": "1961-07-22"
+},
+{
+"id": "sim_business-week_1961-07-29_1665",
+"date": "1961-07-29"
+},
+{
+"id": "sim_business-week_1961-08-05_1666",
+"date": "1961-08-05"
+},
+{
+"id": "sim_business-week_1961-08-12_1667",
+"date": "1961-08-12"
+},
+{
+"id": "sim_business-week_1961-08-19_1668",
+"date": "1961-08-19"
+},
+{
+"id": "sim_business-week_1961-08-26_1669",
+"date": "1961-08-26"
+},
+{
+"id": "sim_business-week_1961-09-02_1670",
+"date": "1961-09-02"
+},
+{
+"id": "sim_business-week_1961-09-09_1671",
+"date": "1961-09-09"
+},
+{
+"id": "sim_business-week_1961-09-16_1672",
+"date": "1961-09-16"
+},
+{
+"id": "sim_business-week_1961-09-23_1673",
+"date": "1961-09-23"
+},
+{
+"id": "sim_business-week_1961-09-30_1674",
+"date": "1961-09-30"
+},
+{
+"id": "sim_business-week_1961-10-07_1675",
+"date": "1961-10-07"
+},
+{
+"id": "sim_business-week_1961-10-14_1676",
+"date": "1961-10-14"
+},
+{
+"id": "sim_business-week_1961-10-21_1677",
+"date": "1961-10-21"
+},
+{
+"id": "sim_business-week_1961-10-28_1678",
+"date": "1961-10-28"
+},
+{
+"id": "sim_business-week_1961-11-04_1679",
+"date": "1961-11-04"
+},
+{
+"id": "sim_business-week_1961-11-11_1680",
+"date": "1961-11-11"
+},
+{
+"id": "sim_business-week_1961-11-18_1681",
+"date": "1961-11-18"
+},
+{
+"id": "sim_business-week_1961-11-25_1682",
+"date": "1961-11-25"
+},
+{
+"id": "sim_business-week_1961-12-02_1683",
+"date": "1961-12-02"
+},
+{
+"id": "sim_business-week_1961-12-09_1684",
+"date": "1961-12-09"
+},
+{
+"id": "sim_business-week_1961-12-16_1685",
+"date": "1961-12-16"
+},
+{
+"id": "sim_business-week_1961-12-23_1686",
+"date": "1961-12-23"
+},
+{
+"id": "sim_business-week_1961-12-30_1687",
+"date": "1961-12-30"
+}
+]
